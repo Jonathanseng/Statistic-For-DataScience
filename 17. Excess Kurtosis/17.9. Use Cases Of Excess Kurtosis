@@ -1,0 +1,15 @@
+Excess kurtosis is a measure of the peakedness of a distribution. It is calculated as the fourth standardized moment of a distribution, minus 3. A distribution with a high excess kurtosis is said to be leptokurtic, meaning that it has a peak that is more pronounced than a normal distribution. A distribution with a low excess kurtosis is said to be platykurtic, meaning that it has a peak that is less pronounced than a normal distribution.
+
+Here are some of the use cases of excess kurtosis:
+
+* **Risk management:** Excess kurtosis can be used to measure the risk of an investment. A high excess kurtosis indicates that an investment is more likely to experience extreme returns, both positive and negative. A low excess kurtosis indicates that an investment is less likely to experience extreme returns.
+* **Identifying outliers:** Excess kurtosis can be used to identify outliers in a dataset. Outliers are data points that are significantly different from the rest of the data. Excess kurtosis can be used to identify outliers because it is sensitive to extreme values.
+* **Modeling data:** Excess kurtosis can be used to model the distribution of data. This can be useful for a variety of tasks, such as forecasting and decision making.
+
+Here are some examples of how excess kurtosis can be used:
+
+* A portfolio manager might use excess kurtosis to select investments that have a lower risk of extreme losses.
+* A risk analyst might use excess kurtosis to calculate the probability of an investment experiencing a loss of a certain magnitude.
+* A regulator might use excess kurtosis to set capital requirements for financial institutions.
+
+Excess kurtosis is a useful tool for measuring risk, identifying outliers, and modeling data. However, it is important to be aware of the limitations of kurtosis and to use it in conjunction with other statistical methods.
