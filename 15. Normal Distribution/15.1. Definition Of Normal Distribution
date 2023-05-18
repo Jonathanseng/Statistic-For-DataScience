@@ -1,0 +1,13 @@
+
+The Normal or Gaussian distribution is a symmetrical bell- shaped frequency distribution curve.
+It can be represented using the following function:
+
+where:
+1. μ is the mean of the distribution (and also its median and mode)
+2. σ is the standard deviation of the distribution
+3. x is a random variable with a Gaussian distribution
+
+Many real-world datasets form normal distributions. A few such examples are:
+1. Height of a population
+2. IQ of a population
+3. The experiment of rolling a dice

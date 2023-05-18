@@ -1,0 +1,17 @@
+The mean is a measure of central tendency that is calculated by adding up the values of all the observations in a dataset and dividing by the number of observations. It is also known as the arithmetic mean or simply the average.
+
+The mean is a useful measure of central tendency because it is easy to calculate and understand. It can also be used to compare different datasets. However, the mean can be sensitive to outliers, which are data points that are very different from the rest of the dataset.
+
+One of the weak points of the mean is that it can be skewed by outliers. Outliers are data points that are very different from the rest of the dataset. They can cause the mean to be higher or lower than it would be if the outliers were not present.
+
+Another weak point of the mean is that it can be misleading when the data is not normally distributed. A normal distribution is a bell-shaped curve that is symmetrical around the mean. When the data is not normally distributed, the mean may not be a good representation of the center of the data.
+
+Despite its weak points, the mean is a useful measure of central tendency. It is important to be aware of the weak points of the mean and to use it with caution.
+
+Here are some additional weak points of the mean:
+
+* The mean cannot be used to determine the median or mode of a data set.
+* The mean is not resistant to outliers, so it can be skewed by a small number of extreme values.
+* The mean is not a good measure of central tendency for data sets that are not normally distributed.
+
+Despite its limitations, the mean can be a useful tool for describing data. It is important to be aware of its limitations and to use it with caution.

@@ -1,0 +1,11 @@
+Skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable to its mean.
+For a dataset with observations i.e. Y(1), Y(2),Y(3),...,Y(N) , the skewness is calculated as:
+
+
+
+where:
+1. Y ̄ is the mean
+2. s is the standard deviation
+3. N is the number of observations
+
+Skewness can be positive, zero, negative, or undefined. The skewness of a normal distribution is 0 .

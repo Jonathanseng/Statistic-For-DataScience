@@ -1,0 +1,17 @@
+The normal distribution is a very important distribution in statistics, but it has some weaknesses. One weakness is that it is not always a good fit for real-world data. For example, the heights and weights of people are not normally distributed. Another weakness is that the normal distribution is sensitive to outliers. Outliers are data points that are very different from the rest of the data. They can skew the results of statistical analyses that use the normal distribution.
+
+Here are some of the weak points of the normal distribution in statistics:
+
+* **It is not always a good fit for real-world data.**
+
+The normal distribution is a symmetrical distribution, with the mean, median, and mode all in the same place. However, many real-world data sets are not symmetrical. For example, the heights and weights of people are not normally distributed. The distribution of heights is skewed to the right, with a long tail on the right side. This means that there are more people who are taller than average than there are people who are shorter than average. The distribution of weights is skewed to the left, with a long tail on the left side. This means that there are more people who are heavier than average than there are people who are lighter than average.
+
+* **It is sensitive to outliers.**
+
+Outliers are data points that are very different from the rest of the data. They can skew the results of statistical analyses that use the normal distribution. For example, if you are using the normal distribution to estimate the mean of a data set, an outlier can make the estimated mean much higher or lower than the actual mean.
+
+* **It is not always the best distribution to use.**
+
+There are other distributions that may be a better fit for some data sets than the normal distribution. For example, the t-distribution and the F-distribution are often used for data sets that are not normally distributed.
+
+Despite its weaknesses, the normal distribution is a very important distribution in statistics. It is a powerful tool that can be used for a variety of statistical tasks. It is important to be aware of the weaknesses of the normal distribution so that you can use it effectively.

@@ -1,0 +1,27 @@
+Skewness is a measure of the asymmetry of a distribution. A distribution is symmetrical when its left and right side are mirror images. A distribution is asymmetrical when its left and right side are not mirror images.
+
+There are three types of skewness:
+
+* **Positive skewness:** The tail on the right side of the distribution is longer than the tail on the left side. This means that there are more values on the right side of the distribution than on the left side.
+* **Negative skewness:** The tail on the left side of the distribution is longer than the tail on the right side. This means that there are more values on the left side of the distribution than on the right side.
+* **Zero skewness:** The distribution is symmetrical. This means that there are an equal number of values on the left and right side of the distribution.
+
+Skewness can be calculated using the following formula:
+
+```
+Skewness = (Mean - Median) / Standard Deviation
+```
+
+The mean is the average of the values in the distribution. The median is the middle value in the distribution. The standard deviation is a measure of how spread out the values in the distribution are.
+
+Skewness can be used to describe the shape of a distribution and to compare different distributions. For example, a distribution with positive skewness will have a longer right tail than a distribution with negative skewness. This means that there will be more values on the right side of the distribution with positive skewness than on the left side.
+
+Skewness can also be used to identify outliers. Outliers are values that are very different from the rest of the values in the distribution. Outliers can skew the results of statistical analyses.
+
+Skewness is an important concept in statistics. It can be used to describe the shape of a distribution, to compare different distributions, and to identify outliers.
+
+Here are some examples of how skewness can be used in statistics:
+
+* **Describing the shape of a distribution:** Skewness can be used to describe the shape of a distribution. For example, a distribution with positive skewness is said to be "right-skewed" because the tail on the right side of the distribution is longer than the tail on the left side. A distribution with negative skewness is said to be "left-skewed" because the tail on the left side of the distribution is longer than the tail on the right side.
+* **Comparing different distributions:** Skewness can be used to compare different distributions. For example, you could use skewness to compare the distribution of heights of men to the distribution of heights of women. If the distribution of heights of men is right-skewed and the distribution of heights of women is left-skewed, this would mean that there are more men who are taller than average than there are women who are taller than average.
+* **Identifying outliers:** Skewness can be used to identify outliers. Outliers are values that are very different from the rest of the values in the distribution. Outliers can skew the results of statistical analyses. For example, if you are calculating the average height of a group of people and there is one person who is much taller than everyone else, this person would be considered an outlier. Skewness can be used to identify outliers so that they can be removed from the data set before statistical analyses are performed.

@@ -1,0 +1,19 @@
+Skewness is a measure of the asymmetry of a distribution. It is calculated by dividing the third moment of a distribution by the cube of its standard deviation.
+
+The strong point of skewness is that it is a simple and easy-to-understand measure of the shape of a distribution. It can be used to compare different distributions and to identify outliers.
+
+Here are some of the strong points of skewness:
+
+* **It is a simple and easy-to-understand measure of the shape of a distribution.**
+
+Skewness can be calculated quickly and easily, even with a small amount of data.
+
+* **It can be used to compare different distributions.**
+
+Skewness can be used to compare the shape of two or more distributions. This can be useful for identifying distributions that are similar or different.
+
+* **It can be used to identify outliers.**
+
+Outliers are data points that are very different from the rest of the data. Skewness can be used to identify outliers, which can be helpful for identifying errors in data sets.
+
+Overall, skewness is a useful tool for describing the shape of a distribution. It is simple to calculate and easy to understand. Skewness can be used to compare different distributions and to identify outliers.

@@ -1,0 +1,23 @@
+Skewness is a measure of the asymmetry of a distribution. It is calculated by dividing the third moment of a distribution by the cube of its standard deviation.
+
+The weak point of skewness is that it is sensitive to outliers. Outliers are data points that are very different from the rest of the data. If there are outliers in a data set, they can skew the results of skewness calculations.
+
+Another weak point of skewness is that it is not always a good measure of the shape of a distribution. For example, a distribution with a small amount of skewness can still be very asymmetric.
+
+Overall, skewness is a useful tool for describing the shape of a distribution, but it is important to be aware of its limitations.
+
+Here are some of the weak points of skewness:
+
+* **It is sensitive to outliers.**
+
+Outliers are data points that are very different from the rest of the data. If there are outliers in a data set, they can skew the results of skewness calculations.
+
+* **It is not always a good measure of the shape of a distribution.**
+
+For example, a distribution with a small amount of skewness can still be very asymmetric.
+
+* **It is not always easy to interpret.**
+
+The interpretation of skewness can be difficult, especially for distributions that are not symmetrical.
+
+Despite its limitations, skewness is a useful tool for describing the shape of a distribution. It is important to be aware of its limitations, however, so that you can interpret the results of skewness calculations correctly.

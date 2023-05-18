@@ -1,0 +1,15 @@
+The median is a measure of central tendency that is often used to describe the middle value in a data set. It is the value that divides the data set into two equal parts, with half of the values above the median and half below.
+
+The median has several strengths that make it a useful tool for describing data.
+
+* **Robustness to outliers:** The median is not affected by outliers, which are data points that are very different from the rest of the data. This makes the median a good choice for data sets that may contain outliers.
+* **Representative of the middle value:** The median is the middle value in a data set, so it is a good representation of the center of the data. This makes the median a good choice for data sets that are not normally distributed.
+* **Easy to understand:** The median is easy to understand, even for people who are not familiar with statistics. This makes the median a good choice for communicating data to a wide audience.
+
+Here are some additional strengths of the median:
+
+* The median can be used to compare data sets of different sizes.
+* The median can be used to determine the impact of outliers on a data set.
+* The median can be used to identify the middle value of a data set.
+
+Overall, the median is a robust and easy-to-understand measure of central tendency that can be used in a variety of statistical applications.

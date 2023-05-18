@@ -1,0 +1,17 @@
+The median is a measure of central tendency that is often used to describe the middle value in a data set. It is the value that divides the data set into two equal parts, with half of the values above the median and half below.
+
+The median has several limitations that make it less useful than other measures of central tendency, such as the mean.
+
+* **Not sensitive to changes in the data:** The median is not as sensitive to changes in the data as the mean. This means that the median can be less informative than the mean when the data set is changing.
+* **Not affected by outliers:** The median is not affected by outliers, but this can also be a limitation. If there are a few very large or very small values in a data set, the median may not be a good representation of the center of the data.
+* **Not representative of the data:** The median is not always representative of the data. For example, if the data set is skewed, the median may not be in the middle of the data set.
+
+Overall, the median is a useful measure of central tendency, but it is important to be aware of its limitations when using it.
+
+Here are some additional limitations of the median:
+
+* The median cannot be used to determine the average value of a data set.
+* The median is not affected by outliers, but this can also be a limitation. If there are a few very large or very small values in a data set, the median may not be a good representation of the center of the data.
+* The median cannot be used to compare data sets of different sizes.
+
+Despite its limitations, the median can be a useful tool for describing data. It is important to be aware of its limitations and to use it with caution.
