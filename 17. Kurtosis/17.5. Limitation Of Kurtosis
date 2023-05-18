@@ -1,0 +1,19 @@
+Kurtosis is a measure of the shape of a probability distribution. It is calculated as the fourth standardized moment of the distribution. Kurtosis can be used to describe the peakedness or flatness of a distribution, as well as the heaviness or lightness of its tails.
+
+There are several limitations to kurtosis. First, kurtosis is sensitive to outliers. This means that a small number of extreme values can have a significant impact on the kurtosis of a distribution. Second, kurtosis is not always a reliable measure of the shape of a distribution. This is because kurtosis can be affected by the scale of the data. For example, a distribution with high kurtosis may have a low kurtosis if the data is scaled.
+
+Here are some of the limitations of kurtosis:
+
+* Kurtosis is sensitive to outliers.
+* Kurtosis is not always a reliable measure of the shape of a distribution.
+* Kurtosis can be affected by the scale of the data.
+
+Despite these limitations, kurtosis can be a useful tool for data analysts. It can be used to compare different distributions, to identify outliers, and to identify distributions that are not normally distributed. However, it is important to be aware of the limitations of kurtosis when using it to analyze data.
+
+Here are some additional limitations of kurtosis:
+
+* Kurtosis can be difficult to interpret.
+* Kurtosis is not always a reliable measure of risk.
+* Kurtosis can be affected by the distribution of the data.
+
+Overall, kurtosis is a useful tool for data analysts, but it is important to be aware of its limitations when using it to analyze data.
