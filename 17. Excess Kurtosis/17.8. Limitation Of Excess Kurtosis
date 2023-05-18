@@ -1,0 +1,15 @@
+Excess kurtosis is a measure of the peakedness of a distribution. It is calculated as the fourth standardized moment of a distribution, minus 3. A distribution with a high excess kurtosis is said to be leptokurtic, meaning that it has a peak that is more pronounced than a normal distribution. A distribution with a low excess kurtosis is said to be platykurtic, meaning that it has a peak that is less pronounced than a normal distribution.
+
+Here are some of the limitations of excess kurtosis:
+
+* **It is sensitive to outliers.** This means that a small number of extreme values can have a large impact on the calculated kurtosis. As a result, excess kurtosis should not be used as the sole measure of the peakedness of a distribution.
+* **It is not always easy to interpret.** This is because the interpretation of kurtosis depends on the shape of the distribution. For example, a distribution with a high excess kurtosis could be leptokurtic or platykurtic, depending on whether the tails of the distribution are heavy or light.
+* **It is not always a good measure of risk.** This is because kurtosis does not take into account the variability of a distribution. As a result, a distribution with a high kurtosis could be risky even if it has a low variance.
+
+Despite these limitations, excess kurtosis can be a useful tool for measuring the peakedness of a distribution. However, it is important to be aware of the limitations of kurtosis and to use it in conjunction with other measures of distributional shape.
+
+Here are some suggestions for how to overcome the limitations of excess kurtosis:
+
+* Use other measures of distributional shape, such as skewness and the median absolute deviation.
+* Use robust methods for calculating kurtosis, such as Winsorized kurtosis.
+* Use kurtosis in conjunction with other statistical methods, such as hypothesis testing and confidence intervals.
