@@ -1,0 +1,21 @@
+Quantiles are a versatile tool that can be used to describe and analyze data. They are a powerful way to understand the distribution of a dataset and to make inferences about a population.
+
+However, quantiles also have some limitations. One limitation of quantiles is that they can be sensitive to outliers. Outliers are data points that are very different from the rest of the data. When there are outliers in a dataset, the quantiles can be misleading.
+
+Another limitation of quantiles is that they can be difficult to interpret. For example, if the median income in a population is \$50,000, it is not clear what this means. Does it mean that half of the people in the population earn less than \$50,000 and half earn more than \$50,000? Or does it mean that half of the people in the population are living in poverty and half are not?
+
+Overall, quantiles are a powerful tool that can be used to describe and analyze data. However, they also have some limitations that should be considered when using them.
+
+Here are some additional limitations of quantiles:
+
+* Quantiles can be sensitive to the distribution of the data. For example, if the data is skewed, the quantiles may not be representative of the center of the data.
+* Quantiles can be difficult to interpret when there are multiple modes in the data. For example, if the data has two modes, the median will not be representative of either mode.
+* Quantiles can be difficult to calculate for large datasets.
+
+Despite these limitations, quantiles can be a valuable tool for data analysis. They can be used to describe the distribution of the data, to identify outliers, and to make inferences about the population from which the data was sampled.
+
+Here are some ways to overcome the limitations of quantiles:
+
+* **Use robust methods to calculate quantiles.** There are a number of robust methods that can be used to calculate quantiles. These methods are less sensitive to outliers than the traditional methods.
+* **Interpret quantiles carefully.** When interpreting quantiles, it is important to consider the distribution of the data. If the data is skewed, the quantiles may not be representative of the center of the data.
+* **Use quantiles with other statistical methods.** Quantiles can be used in conjunction with other statistical methods to get a more complete picture of the data. For example, quantiles can be used to calculate confidence intervals and to make predictions about future data.

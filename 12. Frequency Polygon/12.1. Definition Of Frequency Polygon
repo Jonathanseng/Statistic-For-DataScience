@@ -1,0 +1,4 @@
+
+Similar to Histograms, Frequency polygons are used to plot continuous numerical data of interval/ratio scale.
+Unlike Histograms that use rectangles to plot data, Frequency polygons use line segments.
+A frequency polygon is created by joining the midpoints of the class intervals against the frequencies.

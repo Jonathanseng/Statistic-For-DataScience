@@ -1,0 +1,14 @@
+The range is a simple measure of variability, but it has some limitations. Here are some of the limitations of ranges in statistics:
+
+* **The range is sensitive to outliers.** Outliers are data points that are very different from the rest of the data. If there are outliers in the data set, the range will be larger than it would be if there were no outliers.
+* **The range does not take into account the distribution of the data.** The range only considers the largest and smallest values in the data set. It does not consider the values in between. This can be a problem if the data is not normally distributed.
+* **The range is not a very accurate measure of variability.** The range is only affected by the largest and smallest values in the data set. It is not affected by the values in between. This can make the range a less accurate measure of variability than other measures, such as the standard deviation.
+
+Despite these limitations, the range is a useful measure of variability. It is a simple measure that can be easily calculated. It is also a good measure to use when there are not many data points in the data set.
+
+Here are some additional limitations of the range:
+
+* **The range cannot be used to compare data sets of different sizes.** The range is calculated by subtracting the smallest value from the largest value in the data set. This means that the range will be larger for data sets with a wider range of values. This can make it difficult to compare data sets of different sizes.
+* **The range is not a very robust measure of variability.** The range is sensitive to changes in the data set. This means that a small change in the data set can lead to a large change in the range. This can make the range a less reliable measure of variability.
+
+Overall, the range is a simple and easy-to-calculate measure of variability. However, it is important to be aware of its limitations before using it to analyze data.

@@ -1,0 +1,26 @@
+The range in statistics is a measure of variability that tells you how spread out the data is. It is calculated by subtracting the smallest value from the largest value in the data set. For example, if the data set is {1, 2, 3, 4, 5}, the range is 4 (5 - 1).
+
+The range is a simple measure of variability, but it can be misleading if there are extreme values in the data set. For example, if the data set is {1, 2, 3, 4, 5, 1000}, the range is 995, but this does not accurately reflect the variability of the data.
+
+Here is the formula for calculating the range:
+
+```
+Range = Highest value - Lowest value
+```
+
+The range is a useful measure of variability, but it is important to be aware of its limitations.
+
+Here are some of the limitations of the range:
+
+* The range is sensitive to outliers. Outliers are data points that are very different from the rest of the data. If there are outliers in the data set, the range will be larger than it would be if there were no outliers.
+* The range does not take into account the distribution of the data. The range only considers the largest and smallest values in the data set. It does not consider the values in between.
+
+Despite these limitations, the range is a useful measure of variability. It is a simple measure that can be easily calculated. It is also a good measure to use when there are not many data points in the data set.
+
+Here are some examples of how the range can be used:
+
+* A company might use the range to track the sales of its products over time. This would help the company to identify trends in sales and to make predictions about future sales.
+* A school might use the range to track the scores of its students on standardized tests. This would help the school to identify areas where students are struggling and to provide additional support.
+* A government agency might use the range to track the number of crimes committed in a city. This would help the agency to identify areas where crime is a problem and to allocate resources accordingly.
+
+The range is a versatile tool that can be used to visualize and analyze data in a variety of settings.

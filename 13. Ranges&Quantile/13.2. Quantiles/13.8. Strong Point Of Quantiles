@@ -1,0 +1,12 @@
+Quantiles are a versatile tool that can be used to describe and analyze data. They are a powerful way to understand the distribution of a dataset and to make inferences about a population.
+
+Here are some of the strong points of quantiles:
+
+* **Quantiles are robust to outliers.** Outliers are data points that are very different from the rest of the data. When there are outliers in a dataset, the quantiles are not as affected as other measures of central tendency, such as the mean and median.
+* **Quantiles can be used to describe the distribution of a dataset.** Quantiles can be used to describe the center, spread, and shape of a dataset. For example, the median is a quantile that divides the dataset into two equal halves. This can be used to describe the center of the dataset. The first quartile divides the dataset into two quarters, with 25% of the data below the first quartile and 75% of the data above it. This can be used to describe the lower half of the dataset. The third quartile divides the dataset into two quarters, with 75% of the data below the third quartile and 25% of the data above it. This can be used to describe the upper half of the dataset.
+* **Quantiles can be used to make inferences about a population.** If we know that the median income in a population is \$50,000, we can infer that half of the people in the population earn less than \$50,000 and half earn more than \$50,000.
+* **Quantiles can be used to identify outliers.** Outliers are data points that are very different from the rest of the data. Quantiles can be used to identify outliers by looking for data points that are far away from the rest of the data.
+* **Quantiles can be used to compare two or more datasets.** Quantiles can be used to compare two or more datasets by looking at the values of the quantiles. For example, if the median income in dataset A is higher than the median income in dataset B, then we can infer that dataset A has a higher average income than dataset B.
+* **Quantiles can be used to make predictions about future data.** Quantiles can be used to make predictions about future data by looking at the values of the quantiles in historical data. For example, if the median income in a population has been increasing over time, then we can predict that the median income in the population will continue to increase in the future.
+
+Overall, quantiles are a powerful tool that can be used to describe and analyze data. They are a versatile and robust way to understand the distribution of a dataset and to make inferences about a population.

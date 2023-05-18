@@ -1,0 +1,15 @@
+Quantiles are a versatile tool that can be used to describe and analyze data. They are a powerful way to understand the distribution of a dataset and to make inferences about a population.
+
+However, quantiles also have some weak points. One weak point of quantiles is that they can be sensitive to outliers. Outliers are data points that are very different from the rest of the data. When there are outliers in a dataset, the quantiles can be misleading.
+
+Another weak point of quantiles is that they can be difficult to interpret. For example, if the median income in a population is \$50,000, it is not clear what this means. Does it mean that half of the people in the population earn less than \$50,000 and half earn more than \$50,000? Or does it mean that half of the people in the population are living in poverty and half are not?
+
+Overall, quantiles are a powerful tool that can be used to describe and analyze data. However, they also have some weak points that should be considered when using them.
+
+Here are some additional weak points of quantiles:
+
+* Quantiles can be sensitive to the distribution of the data. For example, if the data is skewed, the quantiles may not be representative of the center of the data.
+* Quantiles can be difficult to interpret when there are multiple modes in the data. For example, if the data has two modes, the median will not be representative of either mode.
+* Quantiles can be difficult to calculate for large datasets.
+
+Despite these weak points, quantiles can be a valuable tool for data analysis. They can be used to describe the distribution of the data, to identify outliers, and to make inferences about the population from which the data was sampled.

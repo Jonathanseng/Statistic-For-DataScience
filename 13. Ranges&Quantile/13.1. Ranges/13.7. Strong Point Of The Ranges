@@ -1,0 +1,9 @@
+The range is a simple measure of variability that can be easily calculated. It is also a good measure to use when there are not many data points in the data set.
+
+Here are some of the strong points of ranges in statistics:
+
+* **The range is easy to calculate.** The range can be calculated with just two numbers: the largest and smallest values in the data set. This makes it a very easy measure to calculate, even for large data sets.
+* **The range is a good measure of variability for small data sets.** When there are not many data points in a data set, other measures of variability, such as the standard deviation, can be less accurate. The range is a good measure to use in these cases because it is not affected by the number of data points.
+* **The range can be used to identify outliers.** Outliers are data points that are very different from the rest of the data. The range can be used to identify outliers by looking for data points that are far away from the rest of the data.
+
+Overall, the range is a simple and easy-to-use measure of variability. It is a good measure to use when there are not many data points in the data set or when you need to identify outliers.

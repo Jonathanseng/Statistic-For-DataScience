@@ -1,0 +1,27 @@
+In statistics, quantiles are cut points dividing the range of a probability distribution into continuous intervals with equal probabilities, or dividing the observations in a sample in the same way. There is one fewer quantile than the number of groups created. Common quantiles have special names, such as quartiles (four groups), deciles (ten groups), and percentiles (100 groups). The groups created are termed halves, thirds, quarters, etc., though sometimes the terms for the quantile are used for the groups created, rather than for the cut points.
+
+Quantiles can be used to describe the distribution of a dataset. For example, the median is a quantile that divides the dataset into two equal halves. The first quartile divides the dataset into two quarters, with 25% of the data below the first quartile and 75% of the data above it. The third quartile divides the dataset into two quarters, with 75% of the data below the third quartile and 25% of the data above it.
+
+Quantiles can also be used to make inferences about a population. For example, if we know that the median income in a population is \$50,000, we can infer that half of the people in the population earn less than \$50,000 and half earn more than \$50,000.
+
+There are several different ways to calculate quantiles. One common method is to use the rank order of the data. The rank order of a data point is its position in the sorted dataset. For example, the rank order of the data point 5 in the dataset {1, 2, 3, 4, 5} is 5.
+
+To calculate a quantile using the rank order, we first need to calculate the cumulative distribution function (CDF). The CDF of a dataset is a function that maps each possible value of the data to the probability that the value will be less than or equal to that value.
+
+Once we have the CDF, we can calculate the quantile by finding the value that has the desired probability. For example, to calculate the median, we need to find the value that has a probability of 0.5. This value is the rank order of the median.
+
+Quantiles are a versatile tool that can be used to describe and analyze data. They are a powerful way to understand the distribution of a dataset and to make inferences about a population.
+
+Here are some examples of how quantiles can be used:
+
+* **To describe the distribution of a dataset:** The median is a quantile that divides the dataset into two equal halves. This can be used to describe the center of the dataset. The first quartile divides the dataset into two quarters, with 25% of the data below the first quartile and 75% of the data above it. This can be used to describe the lower half of the dataset. The third quartile divides the dataset into two quarters, with 75% of the data below the third quartile and 25% of the data above it. This can be used to describe the upper half of the dataset.
+* **To make inferences about a population:** If we know that the median income in a population is \$50,000, we can infer that half of the people in the population earn less than \$50,000 and half earn more than \$50,000.
+* **To identify outliers:** Outliers are data points that are very different from the rest of the data. Quantiles can be used to identify outliers by looking for data points that are far away from the rest of the data.
+* **To compare two or more datasets:** Quantiles can be used to compare two or more datasets by looking at the values of the quantiles. For example, if the median income in dataset A is higher than the median income in dataset B, then we can infer that dataset A has a higher average income than dataset B.
+* **To make predictions about future data:** Quantiles can be used to make predictions about future data by looking at the values of the quantiles in historical data. For example, if the median income in a population has been increasing over time, then we can predict that the median income in the population will continue to increase in the future.
+
+Overall, quantiles are a versatile tool that can be used to describe and analyze data. They are a powerful way to understand the distribution of a dataset and to make inferences about a population.
+
+Here are some specific applications of quantiles:
+
+* **In finance, quantiles are used to calculate Value at Risk (VaR). VaR is a measure of the potential loss of an investment. It is calculated by taking the quantile of the distribution of possible losses. For example, a 95% VaR means that there is a 5% chance of losing more than the VaR amount.

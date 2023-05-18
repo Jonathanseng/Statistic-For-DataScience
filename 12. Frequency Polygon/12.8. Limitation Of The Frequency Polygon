@@ -1,0 +1,11 @@
+Frequency polygons are a useful tool for visualizing the distribution of data, but they have some limitations. 
+
+Here are some of the limitations of frequency polygons:
+
+* **They can be difficult to interpret if the data is not normally distributed.** A normal distribution is a bell-shaped curve, with the mean, median, and mode all in the same place. If the data is not normally distributed, the frequency polygon may be difficult to interpret.
+* **They can be misleading if the data is not representative of the population.** Frequency polygons are based on a sample of data. If the sample is not representative of the population, the frequency polygon may be misleading.
+* **They can be time-consuming to create.** Frequency polygons can be time-consuming to create, especially for large data sets.
+* **They can be misleading if the data is not continuous.** Frequency polygons are only appropriate for continuous data. If the data is discrete, the frequency polygon may be misleading.
+* **They can be difficult to compare if the data sets have different ranges.** Frequency polygons are best used to compare data sets that have similar ranges. If the data sets have different ranges, the frequency polygons may be difficult to compare.
+
+Overall, frequency polygons are a versatile tool that can be used to visualize and analyze data. However, it is important to be aware of their limitations before using them.

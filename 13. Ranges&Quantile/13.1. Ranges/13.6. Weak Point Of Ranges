@@ -1,0 +1,13 @@
+The range is a simple measure of variability, but it has some limitations. One limitation is that it is sensitive to outliers. Outliers are data points that are very different from the rest of the data. If there are outliers in the data set, the range will be larger than it would be if there were no outliers.
+
+Another limitation of the range is that it does not take into account the distribution of the data. The range only considers the largest and smallest values in the data set. It does not consider the values in between. This can be a problem if the data is not normally distributed.
+
+Despite these limitations, the range is a useful measure of variability. It is a simple measure that can be easily calculated. It is also a good measure to use when there are not many data points in the data set.
+
+Here are some of the weak points of ranges in statistics:
+
+* **The range is sensitive to outliers.** Outliers are data points that are very different from the rest of the data. If there are outliers in the data set, the range will be larger than it would be if there were no outliers.
+* **The range does not take into account the distribution of the data.** The range only considers the largest and smallest values in the data set. It does not consider the values in between. This can be a problem if the data is not normally distributed.
+* **The range is not a very accurate measure of variability.** The range is only affected by the largest and smallest values in the data set. It is not affected by the values in between. This can make the range a less accurate measure of variability than other measures, such as the standard deviation.
+
+Overall, the range is a simple and easy-to-calculate measure of variability. However, it is important to be aware of its limitations before using it to analyze data.

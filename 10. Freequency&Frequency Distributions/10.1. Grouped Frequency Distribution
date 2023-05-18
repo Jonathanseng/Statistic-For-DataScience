@@ -1,0 +1,2 @@
+Data is first converted into different groups/ classes with equal class intervals (i.e. all groups/classes have equal differences in their maximum and minimum values).
+This data is then commonly represented using a Histogram where the X or horizontal axis shows the groups, and the Y or vertical axis shows the frequencies.

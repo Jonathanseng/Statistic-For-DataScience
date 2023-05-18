@@ -1,0 +1,5 @@
+Before plotting, the data is converted into cumulative frequency groups/classes with each group/class containing the percentage/ number of measurements lying within and below each class interval.
+
+The cumulative frequency of the highest group must be 100 and it represents that 100% of the distribution lies at or below it.
+
+Cumulative frequency plots form an S-shaped curve called Ogive.

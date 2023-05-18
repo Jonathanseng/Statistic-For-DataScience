@@ -1,0 +1,14 @@
+
+Range is the difference between the largest and smallest values of measurements in a dataset.
+For example, in a dataset i.e. 1,2,4,3,67 , the range is 67 — 1 = 66.
+
+
+In statistics, the range is the difference between the largest and smallest values in a set of data. It is expressed in the same units as the data. For example, if the data set is {1, 2, 3, 4, 5}, the range is 4 (5 - 1).
+
+The range is a simple measure of variability, but it can be misleading if there are extreme values in the data set. For example, if the data set is {1, 2, 3, 4, 5, 1000}, the range is 995, but this does not accurately reflect the variability of the data.
+
+Here is the formula for calculating the range:
+
+Range = Highest value - Lowest value
+
+The range is a useful measure of variability, but it is important to be aware of its limitations.

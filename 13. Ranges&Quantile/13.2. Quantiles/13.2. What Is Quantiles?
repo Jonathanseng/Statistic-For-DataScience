@@ -1,0 +1,13 @@
+In statistics, quantiles are cut points dividing the range of a probability distribution into continuous intervals with equal probabilities, or dividing the observations in a sample in the same way. There is one fewer quantile than the number of groups created. Common quantiles have special names, such as quartiles (four groups), deciles (ten groups), and percentiles (100 groups). The groups created are termed halves, thirds, quarters, etc., though sometimes the terms for the quantile are used for the groups created, rather than for the cut points.
+
+Quantiles can be used to describe the distribution of a dataset. For example, the median is a quantile that divides the dataset into two equal halves. The first quartile divides the dataset into two quarters, with 25% of the data below the first quartile and 75% of the data above it. The third quartile divides the dataset into two quarters, with 75% of the data below the third quartile and 25% of the data above it.
+
+Quantiles can also be used to make inferences about a population. For example, if we know that the median income in a population is \$50,000, we can infer that half of the people in the population earn less than \$50,000 and half earn more than \$50,000.
+
+There are several different ways to calculate quantiles. One common method is to use the rank order of the data. The rank order of a data point is its position in the sorted dataset. For example, the rank order of the data point 5 in the dataset {1, 2, 3, 4, 5} is 5.
+
+To calculate a quantile using the rank order, we first need to calculate the cumulative distribution function (CDF). The CDF of a dataset is a function that maps each possible value of the data to the probability that the value will be less than or equal to that value.
+
+Once we have the CDF, we can calculate the quantile by finding the value that has the desired probability. For example, to calculate the median, we need to find the value that has a probability of 0.5. This value is the rank order of the median.
+
+Quantiles are a versatile tool that can be used to describe and analyze data. They are a powerful way to understand the distribution of a dataset and to make inferences about a population.
