@@ -1,0 +1,21 @@
+Excess kurtosis is a measure of the peakedness or flatness of a distribution. It is calculated by subtracting the kurtosis of a normal distribution from the kurtosis of the distribution being analyzed. A distribution with excess kurtosis greater than 0 is said to be leptokurtic, or peaked. A distribution with excess kurtosis less than 0 is said to be platykurtic, or flat.
+
+
+In finance, excess kurtosis is often used to measure the riskiness of an investment. A high excess kurtosis indicates that the investment is more likely to experience extreme returns, both positive and negative. A low excess kurtosis indicates that the investment is less likely to experience extreme returns.
+
+
+Here are some examples of distributions with different kurtosis:
+
+
+* A normal distribution has a kurtosis of 3.
+* A distribution with excess kurtosis greater than 3 is said to be leptokurtic, or peaked. Examples of leptokurtic distributions include the Student t-distribution and the Poisson distribution.
+* A distribution with excess kurtosis less than 3 is said to be platykurtic, or flat. Examples of platykurtic distributions include the uniform distribution and the exponential distribution.
+
+
+Excess kurtosis can be used to compare the peakedness or flatness of two distributions. For example, a researcher might be interested in comparing the riskiness of two different investments. The researcher could calculate the excess kurtosis of each investment and then compare the two values. If the excess kurtosis of one investment is higher than the other, then the first investment is more likely to experience extreme returns.
+
+
+Excess kurtosis can also be used to identify outliers in a data set. An outlier is a data point that is significantly different from the rest of the data points in a set. Outliers can be caused by a number of factors, such as data entry errors or measurement errors. Excess kurtosis can be used to identify outliers by identifying data points that have a significantly higher or lower value than the rest of the data points in the set.
+
+
+Overall, excess kurtosis is a useful measure of the peakedness or flatness of a distribution. It can be used to compare the riskiness of two investments or to identify outliers in a data set.
