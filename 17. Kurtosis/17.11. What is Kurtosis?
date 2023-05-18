@@ -1,0 +1,15 @@
+Kurtosis is a measure of the "tailedness" of the probability distribution of a real-valued random variable. Like skewness, kurtosis describes a particular aspect of a probability distribution. There are different ways to quantify kurtosis for a theoretical distribution, and there are corresponding ways of estimating it using a sample from a population.
+
+The most common way to measure kurtosis is to use the fourth moment of the distribution. The fourth moment is the sum of the squared deviations from the mean, divided by the number of observations.
+
+Kurtosis can be classified as follows:
+
+* Mesokurtic distributions have a kurtosis of 3. This is the kurtosis of a normal distribution.
+* Leptokurtic distributions have a kurtosis greater than 3. These distributions have heavier tails than a normal distribution.
+* Platykurtic distributions have a kurtosis less than 3. These distributions have lighter tails than a normal distribution.
+
+Kurtosis can be used to identify distributions that are likely to have outliers. Outliers are data points that are very different from the rest of the data. Leptokurtic distributions are more likely to have outliers than platykurtic distributions.
+
+Kurtosis can also be used to compare different distributions. For example, a distribution with a kurtosis of 4 is more peaked than a distribution with a kurtosis of 2.
+
+Kurtosis is a useful tool for understanding the shape of a probability distribution. It can be used to identify distributions that are likely to have outliers and to compare different distributions.
