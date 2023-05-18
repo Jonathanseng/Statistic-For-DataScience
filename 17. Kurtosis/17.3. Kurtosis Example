@@ -1,0 +1,15 @@
+Kurtosis is a measure of the "peakedness" of a distribution. A distribution with high kurtosis is said to be leptokurtic, while a distribution with low kurtosis is said to be platykurtic. A distribution with kurtosis equal to 3 is said to be mesokurtic.
+
+Here are some examples of distributions with different kurtosis values:
+
+* **Normal distribution:** The normal distribution is mesokurtic, with a kurtosis of 3.
+* **Poisson distribution:** The Poisson distribution is leptokurtic, with a kurtosis greater than 3. This means that the Poisson distribution has a higher peak and fatter tails than the normal distribution.
+* **Exponential distribution:** The exponential distribution is platykurtic, with a kurtosis less than 3. This means that the exponential distribution has a lower peak and thinner tails than the normal distribution.
+
+Kurtosis can be used to identify outliers in a data set. Outliers are data points that are significantly different from the rest of the data. Leptokurtic distributions are more likely to have outliers than platykurtic distributions.
+
+For example, let's say we have a data set of heights of people. The mean height is 6 feet, and the standard deviation is 2 inches. If we plot this data on a histogram, we would expect to see a bell-shaped curve. However, if there is an outlier in the data set, such as someone who is 7 feet tall, the histogram will no longer be a bell shape. Instead, it will have a longer tail on the right side.
+
+Kurtosis can also be used to compare different data sets. For example, let's say we have two data sets of test scores. The first data set has a kurtosis of 2, while the second data set has a kurtosis of 4. This means that the second data set has a higher peak and fatter tails than the first data set. In other words, the second data set is more likely to have outliers than the first data set.
+
+Kurtosis is a useful tool for understanding the shape of a distribution. It can be used to identify outliers and to compare different data sets.
