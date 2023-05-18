@@ -1,0 +1,6 @@
+
+1. If two events are mutually exclusive, the probability of two or more
+events occurring together are equal to the product of their individual probabilities.
+
+2. For example, in a set of cards of 4 colors, the probability of picking a red card is 1/4 = 0.25 and the probability of picking a green card is 1/4 = 0.25 .
+The probability of picking a red AND green card is 1/4 * 1/4 = 0.25 * 0.25 = 0.0625 .

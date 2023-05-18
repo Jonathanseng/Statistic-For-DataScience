@@ -1,0 +1,11 @@
+The main weak point of ordinal data is that the distance between the categories is not known. For example, a survey question that asks respondents to rank their satisfaction with a product on a scale of 1 to 5 is ordinal data. The categories of this data are "very satisfied," "satisfied," "neutral," "dissatisfied," and "very dissatisfied." The order of these categories is clear, but the distance between each category is not known. For example, we cannot say that the difference between "very satisfied" and "satisfied" is the same as the difference between "satisfied" and "neutral."
+
+This means that we cannot perform certain statistical calculations on ordinal data, such as calculating the mean or the standard deviation. We can, however, perform other statistical calculations, such as calculating the mode or the median.
+
+Here are some other weak points of ordinal data:
+
+* Ordinal data cannot be used to make inferences about the population from which it was collected.
+* Ordinal data cannot be used to measure change over time.
+* Ordinal data is not very informative.
+
+Despite its weak points, ordinal data can still be a useful type of data for some purposes. It is important to be aware of the limitations of ordinal data when using it to analyze data, but it can be a valuable tool for categorization, ranking, and identification.

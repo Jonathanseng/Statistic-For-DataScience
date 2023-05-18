@@ -1,0 +1,32 @@
+Interval data is a type of data that has the following characteristics:
+
+* It can be ordered or ranked.
+* The differences between values are meaningful.
+* There is no true zero.
+
+Interval data is measured on an interval scale. An interval scale is a scale of measurement that has the following characteristics:
+
+* The numbers on the scale are ordered from least to greatest.
+* The differences between numbers on the scale are equal.
+* There is no true zero.
+
+An example of interval data is temperature measured in degrees Celsius or Fahrenheit. The numbers on the scale are ordered from least to greatest (0 degrees Celsius is less than 10 degrees Celsius, which is less than 20 degrees Celsius, etc.). The differences between numbers on the scale are equal (the difference between 0 degrees Celsius and 10 degrees Celsius is the same as the difference between 10 degrees Celsius and 20 degrees Celsius). However, there is no true zero on the temperature scale. Zero degrees Celsius does not mean the absence of temperature.
+
+Interval data can be analyzed using a variety of statistical techniques, including:
+
+* Frequency tables
+* Bar charts
+* Histograms
+* Mean
+* Median
+* Mode
+* Standard deviation
+
+Interval data can be used to answer a variety of questions, including:
+
+* What is the average temperature in a city?
+* What is the most common temperature in a city?
+* How does the temperature in a city vary over time?
+* Is there a relationship between temperature and other variables, such as precipitation or humidity?
+
+Interval data is a valuable tool for understanding and analyzing data. It is important to be aware of the limitations of interval data, such as the lack of a true zero, when using it to analyze data.

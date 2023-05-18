@@ -1,0 +1,15 @@
+Ordinal data is a type of data that can be ordered or ranked. The categories of ordinal data have a natural order, but the distances between the categories are not known. For example, a survey question that asks respondents to rank their satisfaction with a product on a scale of 1 to 5 is ordinal data. The categories of this data are "very satisfied," "satisfied," "neutral," "dissatisfied," and "very dissatisfied." The order of these categories is clear, but the distance between each category is not known. For example, we cannot say that the difference between "very satisfied" and "satisfied" is the same as the difference between "satisfied" and "neutral."
+
+Ordinal data is the second level of measurement in statistics, after nominal data. Nominal data is the weakest type of data because it does not have any inherent order or ranking. Ordinal data is stronger than nominal data because it can be ordered or ranked.
+
+Ordinal data is often used in surveys and questionnaires. It can be used to measure things like satisfaction, preference, and opinion. Ordinal data can also be used to group data into categories. For example, a survey question that asks respondents to rank their favorite color is ordinal data. The categories of this data are "red," "blue," "green," and "yellow."
+
+Ordinal data can be analyzed using a variety of statistical techniques, including frequency tables, bar charts, and histograms. These techniques can be used to describe the distribution of ordinal data and to identify patterns in the data.
+
+Here are some of the limitations of ordinal data:
+
+* **The distance between categories is not known.** This means that we cannot perform certain statistical calculations on ordinal data, such as calculating the mean or the standard deviation. We can, however, perform other statistical calculations, such as calculating the mode or the median.
+* **Ordinal data cannot be used to make inferences about the population from which it was collected.** This is because the distance between categories is not known. For example, we cannot say that a person who is "very satisfied" with a product is twice as satisfied as a person who is "satisfied."
+* **Ordinal data cannot be used to measure change over time.** This is because the distance between categories is not known. For example, we cannot say that satisfaction with a product has increased over time if the percentage of people who are "very satisfied" has increased.
+
+Despite its limitations, ordinal data can still be a useful type of data for some purposes. It is important to be aware of the limitations of ordinal data when using it to analyze data, but it can be a valuable tool for categorization, ranking, and identification.

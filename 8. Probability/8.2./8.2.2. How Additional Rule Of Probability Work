@@ -1,0 +1,20 @@
+
+Additional rules in probability refer to the rules that govern the calculation of probabilities when combining or manipulating multiple events. The two main additional rules in probability are the addition rule and the multiplication rule.
+
+Addition Rule:
+The addition rule is used when calculating the probability of the union of two or more events. It can be applied in two different scenarios:
+Addition Rule for Mutually Exclusive Events: If two events are mutually exclusive (i.e., they cannot occur simultaneously), the probability of either event occurring is calculated by adding their individual probabilities. The formula for this rule is:
+P(A or B) = P(A) + P(B)
+
+Addition Rule for Non-Mutually Exclusive Events: If two events are not mutually exclusive (i.e., they can occur together), the probability of either event occurring is calculated by adding their individual probabilities and subtracting the probability of their intersection to avoid double-counting. The formula for this rule is:
+P(A or B) = P(A) + P(B) - P(A and B)
+
+Multiplication Rule:
+The multiplication rule is used when calculating the probability of the intersection or joint occurrence of two or more events. It can also be applied in two different scenarios:
+Multiplication Rule for Independent Events: If two events are independent (i.e., the occurrence of one event does not affect the occurrence of the other), the probability of both events occurring is calculated by multiplying their individual probabilities. The formula for this rule is:
+P(A and B) = P(A) × P(B)
+
+Multiplication Rule for Dependent Events: If two events are dependent (i.e., the occurrence of one event affects the occurrence of the other), the probability of both events occurring is calculated by multiplying the probability of the first event by the conditional probability of the second event given that the first event has occurred. The formula for this rule is:
+P(A and B) = P(A) × P(B|A)
+
+These additional rules in probability provide a framework for calculating the probabilities of combined events and are crucial for solving more complex probability problems. They help in understanding the relationships between events and enable the calculation of probabilities for various scenarios.

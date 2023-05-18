@@ -1,0 +1,19 @@
+The binomial distribution is used to study experiments with only two possible outcomes (success/ failure).
+Such a single success/failure experiment is also called a Bernoulli trial or Bernoulli experiment.
+
+The distribution helps to find the probability of getting the exact number of successes in a series of independent trials.
+The probability of getting exactly k successes in n independent Bernoulli trials is given by the formula:
+
+The formula for the probability mass function (PMF) of the binomial distribution is:
+
+P(X = k) = C(n, k) * p^k * (1 - p)^(n - k)
+
+Where:
+
+P(X = k) is the probability of having exactly k successes in n independent Bernoulli trials.
+C(n, k) is the binomial coefficient, also known as "n choose k," and it represents the number of ways to choose k successes out of n trials. It is calculated as C(n, k) = n! / (k! * (n - k)!), where n! denotes the factorial of n.
+p is the probability of success on a single trial.
+(1 - p) is the probability of failure on a single trial.
+k is the number of successes you're interested in.
+n is the total number of trials.
+Note that this formula assumes that the trials are independent and that the probability of success (p) remains constant throughout the trials.
