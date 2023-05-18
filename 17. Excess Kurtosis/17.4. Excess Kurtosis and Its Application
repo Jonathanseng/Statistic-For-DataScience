@@ -1,0 +1,28 @@
+Excess kurtosis is a measure of the peakedness of a distribution. It is calculated as the fourth standardized moment of a distribution, minus 3. A distribution with a high excess kurtosis is said to be leptokurtic, meaning that it has a peak that is more pronounced than a normal distribution. A distribution with a low excess kurtosis is said to be platykurtic, meaning that it has a peak that is less pronounced than a normal distribution.
+
+Excess kurtosis can be used to measure the risk of an investment. A high excess kurtosis indicates that an investment is more likely to experience extreme returns, both positive and negative. A low excess kurtosis indicates that an investment is less likely to experience extreme returns.
+
+Excess kurtosis can also be used to compare the risk of different investments. An investment with a higher excess kurtosis is generally considered to be riskier than an investment with a lower excess kurtosis.
+
+Here are some examples of how excess kurtosis can be applied:
+
+* A portfolio manager might use excess kurtosis to select investments that have a lower risk of extreme losses.
+* A risk analyst might use excess kurtosis to calculate the probability of an investment experiencing a loss of a certain magnitude.
+* A regulator might use excess kurtosis to set capital requirements for financial institutions.
+
+Excess kurtosis is a useful tool for measuring risk, but it is important to remember that it is just one measure of risk. Other factors, such as volatility and correlation, should also be considered when making investment decisions.
+
+Here are some additional details about excess kurtosis:
+
+* The normal distribution has a kurtosis of 3.
+* A distribution with a kurtosis greater than 3 is said to be leptokurtic.
+* A distribution with a kurtosis less than 3 is said to be platykurtic.
+* Excess kurtosis can be calculated using the following formula:
+
+```
+Excess kurtosis = Fourth standardized moment - 3
+```
+
+* The fourth standardized moment is calculated as the sum of the squared deviations from the mean, divided by the number of observations minus 4.
+
+* Excess kurtosis can be used to measure the risk of an investment, to compare the risk of different investments, and to calculate the probability of an investment experiencing a loss of a certain magnitude.
