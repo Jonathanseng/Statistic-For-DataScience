@@ -1,0 +1,8 @@
+The power of a test is its ability to detect a real effect when there is one. However, there are a number of limitations to the power of a test. These limitations include:
+
+* **Effect size:** The effect size is the magnitude of the difference between the two groups being compared. A larger effect size means that the test is more likely to detect the difference. However, if the effect size is small, the test may not be able to detect the difference, even if there is a real difference.
+* **Sample size:** The sample size is the number of observations in the study. A larger sample size means that the test is more likely to detect the difference, even if the effect size is small. However, increasing the sample size can be expensive and time-consuming.
+* **Significance level:** The significance level is the probability of rejecting the null hypothesis when it is true. A lower significance level means that the test is more conservative and less likely to reject the null hypothesis, even if there is a real difference.
+* **Assumptions:** The power of a test is based on a number of assumptions, such as the normality of the data. If these assumptions are not met, the power of the test may be affected.
+
+Overall, the power of a test is an important consideration when designing a study. Researchers want to design studies with high power so that they can be confident in their results. However, it is important to note that power is not the only factor that should be considered when interpreting the results of a study. Other factors, such as the effect size, the sample size, and the significance level, should also be considered.
