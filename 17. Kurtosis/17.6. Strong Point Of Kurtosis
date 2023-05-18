@@ -1,0 +1,16 @@
+The strong point of kurtosis is that it can be used to measure the shape of a distribution. Kurtosis is a measure of how much the data points in a distribution are concentrated around the mean. A distribution with high kurtosis is said to be "peaked" or "heavy-tailed", meaning that the data points are more concentrated around the mean and there are more extreme values in the distribution. A distribution with low kurtosis is said to be "flat" or "light-tailed", meaning that the data points are more spread out around the mean and there are fewer extreme values in the distribution.
+
+Kurtosis can be used to compare different distributions and to identify outliers. For example, a distribution with high kurtosis is more likely to have outliers than a distribution with low kurtosis. Kurtosis can also be used to identify distributions that are not normally distributed.
+
+The main strong point of kurtosis is that it is a relatively simple measure to calculate. It can be calculated using a formula that only requires the mean and standard deviation of the distribution. This makes kurtosis a useful tool for data analysts who need to quickly assess the shape of a distribution.
+
+Here are some of the strong points of kurtosis:
+
+* Kurtosis can be used to measure the shape of a distribution.
+* Kurtosis can be used to compare different distributions.
+* Kurtosis can be used to identify outliers.
+* Kurtosis can be used to identify distributions that are not normally distributed.
+
+However, there are also some limitations to kurtosis. One limitation is that kurtosis is sensitive to outliers. This means that a small number of extreme values can have a significant impact on the kurtosis of a distribution. Another limitation is that kurtosis is not always a reliable measure of the shape of a distribution. This is because kurtosis can be affected by the scale of the data. For example, a distribution with high kurtosis may have a low kurtosis if the data is scaled.
+
+Overall, kurtosis is a useful tool for data analysts, but it is important to be aware of its limitations.
