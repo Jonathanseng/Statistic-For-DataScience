@@ -1,0 +1,21 @@
+Kurtosis is a measure of the "tailedness" of a probability distribution. It is calculated by taking the fourth moment of the distribution and dividing it by the variance. The fourth moment is the sum of the squared deviations from the mean, divided by the number of observations.
+
+A normal distribution has a kurtosis of 3. This means that the distribution has a bell-shaped curve, with the mean, median, and mode all equal. The tails of the distribution are symmetrical, and they extend out to infinity.
+
+A distribution with a kurtosis greater than 3 is said to be leptokurtic. This means that the distribution has heavier tails than a normal distribution. The tails of a leptokurtic distribution extend out further from the mean, and they are more likely to contain outliers.
+
+A distribution with a kurtosis less than 3 is said to be platykurtic. This means that the distribution has lighter tails than a normal distribution. The tails of a platykurtic distribution extend out less from the mean, and they are less likely to contain outliers.
+
+Kurtosis can be used to identify distributions that are likely to have outliers. Outliers are data points that are very different from the rest of the data. Leptokurtic distributions are more likely to have outliers than platykurtic distributions.
+
+Kurtosis can also be used to compare different distributions. For example, a distribution with a kurtosis of 4 is more peaked than a distribution with a kurtosis of 2.
+
+Kurtosis is a useful tool for understanding the shape of a probability distribution. It can be used to identify distributions that are likely to have outliers and to compare different distributions.
+
+Here are some examples of how kurtosis can be used:
+
+* A financial analyst might use kurtosis to identify distributions that are likely to have large swings in price.
+* A medical researcher might use kurtosis to identify distributions of blood pressure that are likely to have outliers.
+* A quality control engineer might use kurtosis to identify distributions of product weights that are likely to have defects.
+
+Kurtosis is a versatile tool that can be used in a variety of settings. It is a valuable tool for understanding the shape of probability distributions and for identifying distributions that are likely to have outliers.
