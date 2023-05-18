@@ -1,0 +1,35 @@
+Excess kurtosis is a measure of the tailedness of a distribution. It is calculated by subtracting the kurtosis of a distribution from 3, the kurtosis of a normal distribution. A distribution with positive excess kurtosis has fatter tails than a normal distribution, while a distribution with negative excess kurtosis has thinner tails.
+
+Excess kurtosis can be used to measure the risk of an investment. A distribution with positive excess kurtosis is more likely to experience extreme returns, both positive and negative. This means that an investment with positive excess kurtosis is more risky than an investment with negative excess kurtosis.
+
+Here are some examples of distributions with different levels of excess kurtosis:
+
+* A normal distribution has an excess kurtosis of 0.
+* A distribution with positive excess kurtosis, such as a leptokurtic distribution, has fatter tails than a normal distribution. This means that it is more likely to experience extreme returns, both positive and negative.
+* A distribution with negative excess kurtosis, such as a platykurtic distribution, has thinner tails than a normal distribution. This means that it is less likely to experience extreme returns.
+
+Excess kurtosis can be a useful tool for measuring the risk of an investment. However, it is important to remember that it is just one measure of risk. Other factors, such as the volatility of the investment, should also be considered when making investment decisions.
+
+Here are some additional details about excess kurtosis:
+
+* Excess kurtosis is calculated using the following formula:
+
+```
+Excess kurtosis = (kurtosis - 3)
+```
+
+* Kurtosis is calculated using the following formula:
+
+```
+Kurtosis = (mean^4 / (variance^2)) - 3
+```
+
+* The mean is the average value of a distribution.
+* The variance is a measure of how spread out the values in a distribution are.
+
+* Excess kurtosis can be used to compare the tailedness of different distributions.
+* A distribution with positive excess kurtosis has fatter tails than a normal distribution.
+* A distribution with negative excess kurtosis has thinner tails than a normal distribution.
+* Excess kurtosis can be used to measure the risk of an investment.
+* An investment with positive excess kurtosis is more likely to experience extreme returns, both positive and negative.
+* An investment with negative excess kurtosis is less likely to experience extreme returns.
