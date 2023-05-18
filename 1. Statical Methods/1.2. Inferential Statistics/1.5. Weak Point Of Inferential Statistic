@@ -1,0 +1,20 @@
+
+Inferential statistics, while powerful, has a few limitations or weak points that should be considered:
+
+Sampling Bias: Inferential statistics relies on the assumption that the sample is representative of the population. However, if the sampling process is biased or not random, it can introduce sampling bias, leading to inaccurate or misleading inferences about the population.
+
+Generalizability: Inferential statistics allows us to make inferences about a population based on a sample. However, the extent to which these inferences can be generalized to the larger population depends on factors such as the sample size, sampling method, and the similarity of the sample to the population. In some cases, generalizing the findings to the entire population may be challenging or even inappropriate.
+
+Assumptions: Inferential statistics often relies on assumptions about the data and underlying statistical models. Violations of these assumptions, such as non-normality of data or heterogeneity of variances, can affect the accuracy and validity of the inferences. It's important to check the assumptions and consider robust statistical techniques when assumptions are violated.
+
+Type I and Type II Errors: Inferential statistics involves hypothesis testing, which is subject to errors. Type I error occurs when we reject a null hypothesis that is actually true, while Type II error occurs when we fail to reject a null hypothesis that is actually false. The possibility of making these errors should be carefully considered and balanced.
+
+Sample Size Limitations: The accuracy and precision of inferential statistics are influenced by the sample size. Smaller sample sizes may have limited power to detect small effects or differences, resulting in less reliable inferences. Increasing the sample size can improve the precision and reduce the margin of error.
+
+Causality and Confounding: Inferential statistics can establish correlations or associations between variables, but they cannot prove causality. Identifying causal relationships requires additional study designs, such as randomized controlled trials or well-designed observational studies that control for confounding variables.
+
+Variability and Uncertainty: Inferential statistics provides estimates of population parameters, but there is always some degree of uncertainty or variability associated with these estimates. Confidence intervals are used to quantify the uncertainty, but it's important to interpret the results with caution and consider the margin of error.
+
+Limited Scope: Inferential statistics is limited to the questions that can be answered using the available data. It may not provide insights into the underlying mechanisms, context, or other relevant factors that might be essential for a comprehensive understanding of the phenomenon under study.
+
+It is essential to be aware of these limitations when using inferential statistics and to consider them alongside other statistical techniques, domain knowledge, and research design considerations to ensure robust and valid inferences.

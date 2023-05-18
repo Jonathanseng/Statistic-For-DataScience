@@ -1,0 +1,18 @@
+
+While descriptive statistics are valuable for summarizing and describing datasets, there are a few limitations or weak points to consider:
+
+Lack of Context: Descriptive statistics focus on summarizing and presenting the data in a concise manner. However, they often fail to provide the context or underlying explanations behind the observed patterns or relationships. Descriptive statistics alone may not provide a complete understanding of the complex factors influencing the data.
+
+Limited Insights: Descriptive statistics provide summary measures such as means, medians, and standard deviations, but they may not capture the full complexity of the data. They can overlook important details, outliers, or patterns that might require deeper analysis or more advanced statistical techniques.
+
+Sensitivity to Outliers: Descriptive statistics can be influenced by outliers, which are extreme values that differ significantly from the rest of the dataset. Outliers can skew summary measures, such as the mean, and may not provide an accurate representation of the typical values in the dataset. In such cases, alternative robust measures (e.g., median, interquartile range) may be more appropriate.
+
+Sample Dependency: Descriptive statistics are computed based on the available data sample. The characteristics of the sample can impact the calculated measures, and different samples from the same population may yield slightly different results. The representativeness of the sample is crucial to ensure the descriptive statistics accurately reflect the population of interest.
+
+Lack of Inferential Power: Descriptive statistics summarize the data at hand but do not provide inferential conclusions about the larger population. They cannot make claims about causality or establish statistical significance. To draw meaningful inferences or make predictions, inferential statistics are required.
+
+Simplification of Data: Descriptive statistics condense large datasets into summary measures, which can oversimplify the information contained within the data. The process of summarization inevitably leads to a loss of detailed information, potentially obscuring nuances and important characteristics of the dataset.
+
+Subjectivity in Interpretation: The interpretation of descriptive statistics is subjective and can vary depending on the individual or context. Different individuals may derive different insights or draw different conclusions from the same set of descriptive statistics.
+
+It's important to be aware of these limitations when using descriptive statistics and to consider them alongside other statistical techniques and methodologies to gain a comprehensive understanding of the data.

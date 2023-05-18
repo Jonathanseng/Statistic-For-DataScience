@@ -1,0 +1,20 @@
+
+Descriptive statistics have several limitations that should be considered when analyzing data. Here are some of the main limitations:
+
+Lack of Causality: Descriptive statistics cannot establish causal relationships between variables. They only describe the observed patterns or associations in the data. To determine causality, further experimental or inferential analysis is required.
+
+Sample Dependence: Descriptive statistics are calculated based on the available sample data. The representativeness of the sample is crucial for accurate generalization to the population of interest. Biased or non-representative samples may lead to misleading or inaccurate descriptive statistics.
+
+Oversimplification: Descriptive statistics summarize complex data into a few key measures. This simplification process can result in the loss of important details and nuances present in the dataset. Descriptive statistics may not capture the full complexity of the data and may overlook important factors or outliers.
+
+Limited Statistical Inference: Descriptive statistics focus on summarizing the available data and do not provide formal inferential conclusions. They do not allow for hypothesis testing or making statistical inferences about the population parameters. Inferential statistics are needed for making generalizations or drawing conclusions beyond the observed data.
+
+Insensitivity to Data Distribution: Descriptive statistics are influenced by the shape and distribution of the data. However, some summary measures, such as the mean, standard deviation, or median, may not fully capture the characteristics of skewed or non-normal distributions. In such cases, alternative measures or non-parametric methods may be more appropriate.
+
+Lack of Contextual Information: Descriptive statistics provide numerical summaries of the data, but they often lack the context or underlying explanations. They do not provide insights into the underlying causes or mechanisms that drive the observed patterns. Additional contextual information and domain knowledge are necessary for a comprehensive understanding.
+
+Vulnerability to Outliers: Descriptive statistics can be sensitive to outliers, which are extreme values that differ significantly from the rest of the data. Outliers can distort summary measures like the mean and standard deviation, potentially leading to misleading interpretations. Robust statistical techniques should be considered to mitigate the impact of outliers.
+
+Potential Sample Size Bias: Descriptive statistics can be affected by the sample size. Small sample sizes may not adequately represent the population and can lead to less reliable or less stable estimates of the summary measures. Larger sample sizes generally provide more accurate and precise descriptive statistics.
+
+It's important to be aware of these limitations and consider them in conjunction with other statistical techniques and methodologies when conducting data analysis. Descriptive statistics serve as a useful initial step in exploring and summarizing data but should be supplemented with appropriate inferential methods for more robust analysis.
