@@ -1,0 +1,8 @@
+Here are some of the weak points of dispersion:
+
+* **It can be affected by outliers.** Outliers are data points that are significantly different from the rest of the data. Dispersion measures can be sensitive to outliers, which can lead to inaccurate results.
+* **It can be affected by the sample size.** The dispersion of a sample can be different from the dispersion of the population from which the sample was drawn. This is because the sample size may not be large enough to accurately represent the population.
+* **It can be difficult to interpret.** The interpretation of dispersion measures can be difficult, especially for data sets with a large number of data points.
+* **It is not always a reliable measure of uncertainty.** Dispersion measures can be affected by a number of factors, including the sample size and the distribution of the data. This means that dispersion measures may not always be a reliable measure of uncertainty.
+
+Despite these limitations, dispersion is a valuable tool for understanding and analyzing data. By understanding the limitations of dispersion, we can use it more effectively to make better decisions.
