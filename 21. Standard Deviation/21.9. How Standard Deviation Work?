@@ -1,0 +1,27 @@
+Standard deviation is a measure of how spread out a set of data is. It is calculated by taking the square root of the variance. A higher standard deviation indicates that the data is more spread out, while a lower standard deviation indicates that the data is more tightly clustered around the mean.
+
+The standard deviation is calculated using the following formula:
+
+```
+σ = √(∑(x - μ)^2 / n)
+```
+
+Where:
+
+* σ is the standard deviation
+* ∑ is the sum of
+* x is a data point
+* μ is the mean
+* n is the number of data points
+
+To calculate the standard deviation, we first need to find the mean of the data set. The mean is the average of the data points. Once we have the mean, we can calculate the squared difference between each data point and the mean. We then add up the squared differences and divide by the number of data points. Finally, we take the square root of the result.
+
+The standard deviation can be used to compare the spread of different data sets. For example, if we have two data sets with the same mean, the data set with the higher standard deviation will be more spread out.
+
+The standard deviation can also be used to identify outliers, which are data points that are significantly different from the rest of the data set. Outliers can be caused by errors in data collection or by unusual events.
+
+The standard deviation can also be used to make predictions about future data. For example, if we know the standard deviation of a set of data, we can use it to calculate the probability that a future data point will fall within a certain range.
+
+Here is an example of how standard deviation can be used to make predictions about future data. Let's say we have a data set of the heights of students in a class. The mean height of the students is 6 feet, and the standard deviation is 2 inches. We can use this information to predict that 95% of the students in the class will have heights between 5 feet 10 inches and 6 feet 2 inches.
+
+The standard deviation is a powerful tool that can be used to understand and analyze data. It has a wide range of applications in statistics, finance, medicine, and education.
