@@ -1,0 +1,18 @@
+Standard deviation is a measure of how spread out a set of data is. It is calculated by taking the square root of the variance. The variance is calculated by taking the average of the squared differences between each data point and the mean.
+
+Standard deviation has a number of limitations. One limitation is that it is sensitive to outliers. Outliers are data points that are very different from the rest of the data. They can skew the standard deviation, making it seem like the data is more spread out than it actually is.
+
+Another limitation of standard deviation is that it assumes that the data is normally distributed. This means that the data is evenly distributed around the mean. However, not all data is normally distributed. Some data sets are skewed, meaning that they have a long tail on one side. In these cases, the standard deviation may not be an accurate measure of how spread out the data is.
+
+Finally, standard deviation is not a good measure of central tendency. Central tendency refers to the middle value of a data set. The most common measures of central tendency are the mean, median, and mode. The mean is the average of all the data points. The median is the middle value of the data set, when the data is ranked from least to greatest. The mode is the value that occurs most often in the data set.
+
+Standard deviation is a useful measure of dispersion, but it has a number of limitations. It is important to be aware of these limitations when using standard deviation to interpret data.
+
+Here are some additional limitations of standard deviation:
+
+* It is not always possible to calculate standard deviation, especially for small data sets.
+* Standard deviation can be misleading if the data is not normally distributed.
+* Standard deviation does not take into account the shape of the data distribution.
+* Standard deviation is not a good measure of central tendency.
+
+Despite these limitations, standard deviation is a useful tool for understanding the spread of data. It can be used to compare the spread of two or more data sets, to identify outliers, and to make inferences about the population from which the data was sampled.
