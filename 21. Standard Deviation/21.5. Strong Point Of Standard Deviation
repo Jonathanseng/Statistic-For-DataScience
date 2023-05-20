@@ -1,0 +1,16 @@
+Standard deviation is a powerful statistical measure that can be used to describe the spread of data. It is calculated by taking the square root of the variance, which is a measure of how far each data point is from the mean.
+
+One of the strong points of standard deviation is that it is easy to understand and interpret. For example, if the standard deviation of a set of data is 10, then we know that approximately 68% of the data points will fall within 10 points of the mean. This can be useful for making inferences about the data, such as whether it is normally distributed or not.
+
+Another strong point of standard deviation is that it can be used to compare different sets of data. For example, if we have two sets of data with the same mean, but different standard deviations, we can say that the data with the larger standard deviation is more spread out. This information can be useful for making decisions, such as which set of data to use for a particular analysis.
+
+Overall, standard deviation is a versatile and powerful statistical measure that can be used to describe the spread of data. It is easy to understand and interpret, and it can be used to compare different sets of data.
+
+Here are some additional strong points of standard deviation:
+
+* It is a measure of dispersion, which is the extent to which data points are spread out around the mean.
+* It is a robust measure, which means that it is not sensitive to outliers.
+* It can be used to compare different sets of data, even if they have different means.
+* It can be used to calculate other statistical measures, such as the coefficient of variation and the z-score.
+
+Standard deviation is a valuable tool for statisticians and data analysts. It can be used to describe the spread of data, compare different sets of data, and calculate other statistical measures.
