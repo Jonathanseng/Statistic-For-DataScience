@@ -1,0 +1,9 @@
+In statistics, a sampling distribution of the mean is the probability distribution of a sample mean. It is a distribution of all possible sample means that could be obtained by taking samples of a given size from a population. The sampling distribution of the mean is typically bell-shaped, with the mean of the population being the mean of the sampling distribution. The standard deviation of the sampling distribution is called the standard error of the mean.
+
+The Central Limit Theorem states that as the sample size increases, the sampling distribution of the mean will approach a normal distribution. This means that the mean of the sampling distribution will be equal to the population mean, and the standard error of the mean will decrease as the sample size increases.
+
+The sampling distribution of the mean is used in a variety of statistical procedures, such as hypothesis testing and confidence interval estimation. For example, in hypothesis testing, the sampling distribution of the mean is used to calculate the p-value, which is the probability of obtaining a sample mean that is at least as extreme as the observed sample mean if the null hypothesis is true.
+
+In confidence interval estimation, the sampling distribution of the mean is used to calculate the confidence interval, which is a range of values that is likely to contain the population mean.
+
+The sampling distribution of the mean is a powerful tool that can be used to make inferences about populations based on samples.
