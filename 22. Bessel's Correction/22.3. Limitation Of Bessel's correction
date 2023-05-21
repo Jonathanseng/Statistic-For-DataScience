@@ -1,0 +1,15 @@
+Bessel's correction is a method for estimating the standard deviation of a population from a sample. It is calculated by dividing the sample standard deviation by the square root of n-1, where n is the number of samples.
+
+The limitation of Bessel's correction is that it assumes that the data is normally distributed. If the data is not normally distributed, then the standard deviation calculated using Bessel's correction may not be accurate.
+
+Another limitation of Bessel's correction is that it is only accurate for large samples. For small samples, the standard deviation calculated using Bessel's correction may be biased.
+
+In general, Bessel's correction is a good method for estimating the standard deviation of a population from a sample. However, it is important to be aware of its limitations and to use it with caution when the data is not normally distributed or when the sample size is small.
+
+Here are some additional limitations of Bessel's correction:
+
+* It is not always necessary to use Bessel's correction. If the sample size is large, then the standard deviation calculated without Bessel's correction will be very close to the standard deviation calculated with Bessel's correction.
+* Bessel's correction can be computationally expensive. It is necessary to calculate the square root of n-1, which can be time-consuming for large samples.
+* Bessel's correction can be sensitive to outliers. If there are outliers in the data, then the standard deviation calculated with Bessel's correction may be inaccurate.
+
+Overall, Bessel's correction is a useful method for estimating the standard deviation of a population from a sample. However, it is important to be aware of its limitations and to use it with caution.
