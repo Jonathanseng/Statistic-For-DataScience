@@ -1,0 +1,16 @@
+The formula for Bessel's correction is:
+
+```
+s^2_\text{corrected} = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n - 1}
+```
+
+Where:
+
+* $s^2_\text{corrected}$ is the corrected sample variance
+* $n$ is the number of observations in the sample
+* $x_i$ is the $i$th observation in the sample
+* $\bar{x}$ is the sample mean
+
+Bessel's correction is used to correct for the bias in the estimation of the population variance. The bias occurs because the sample variance is calculated using the sample mean, which is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance will be biased estimates of the population variance.
+
+Bessel's correction corrects for this bias by using n-1 instead of n in the formula for the sample variance. Where n is the number of observations in the sample. This correction makes the sample variance an unbiased estimate of the population variance.
