@@ -1,0 +1,13 @@
+We need Bessel's correction to correct for the bias in the estimation of the population variance and standard deviation. The bias occurs because the sample variance and standard deviation are calculated using the sample mean, which is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance and standard deviation will be biased estimates of the population variance and standard deviation.
+
+Bessel's correction corrects for this bias by using n-1 instead of n in the formula for the sample variance and standard deviation. Where n is the number of observations in the sample. This correction makes the sample variance and standard deviation unbiased estimates of the population variance and standard deviation.
+
+Bessel's correction is a widely used method in statistics, and it is generally considered to be the standard way to calculate the sample variance and standard deviation. However, there are some situations where it may not be necessary to use Bessel's correction. For example, if the sample size is large, the bias in the sample variance and standard deviation will be small, and Bessel's correction may not make a significant difference.
+
+Here are some of the reasons why we need Bessel's correction:
+
+* To obtain an unbiased estimate of the population variance and standard deviation.
+* To ensure that the sample variance and standard deviation are not too sensitive to changes in the sample mean.
+* To make the sample variance and standard deviation more comparable to the population variance and standard deviation.
+
+Bessel's correction is a simple and effective way to improve the accuracy of the sample variance and standard deviation. It is a widely used method in statistics, and it is generally considered to be the standard way to calculate these measures.
