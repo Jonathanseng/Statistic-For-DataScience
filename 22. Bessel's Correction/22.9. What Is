@@ -1,0 +1,39 @@
+Bessel's correction is a method used in statistics to correct for the bias in the estimation of the population variance and standard deviation. The bias occurs because the sample variance and standard deviation are calculated using the sample mean, which is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance and standard deviation will be biased estimates of the population variance and standard deviation.
+
+Bessel's correction corrects for this bias by using n-1 instead of n in the formula for the sample variance and standard deviation. Where n is the number of observations in the sample. This correction makes the sample variance and standard deviation unbiased estimates of the population variance and standard deviation.
+
+Bessel's correction is named after Friedrich Bessel, a German astronomer and mathematician who first proposed it in the 19th century.
+
+Here are the formulas for the sample variance and standard deviation with and without Bessel's correction:
+
+**Without Bessel's correction:**
+
+* Sample variance:
+
+```
+s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}
+```
+
+* Sample standard deviation:
+
+```
+s = \sqrt{s^2}
+```
+
+**With Bessel's correction:**
+
+* Sample variance:
+
+```
+s^2_\text{corrected} = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n - 1}
+```
+
+* Sample standard deviation:
+
+```
+s_\text{corrected} = \sqrt{s^2_\text{corrected}}
+```
+
+As you can see, the only difference between the formulas with and without Bessel's correction is that the denominator of the fraction is n-1 instead of n.
+
+Bessel's correction is a widely used method in statistics, and it is generally considered to be the standard way to calculate the sample variance and standard deviation. However, there are some situations where it may not be necessary to use Bessel's correction. For example, if the sample size is large, the bias in the sample variance and standard deviation will be small, and Bessel's correction may not make a significant difference.
