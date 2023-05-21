@@ -1,0 +1,34 @@
+Bessel's correction works by subtracting 1 from the denominator of the formula for the sample variance. This correction makes the sample variance an unbiased estimate of the population variance.
+
+The bias in the sample variance occurs because the sample mean is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance will be biased estimates of the population variance.
+
+Bessel's correction corrects for this bias by subtracting 1 from the denominator of the formula for the sample variance. This correction makes the sample variance an unbiased estimate of the population variance.
+
+Here is a more detailed explanation of how Bessel's correction works.
+
+The formula for the sample variance is:
+
+```
+s^2 = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n}
+```
+
+Where:
+
+* $s^2$ is the sample variance
+* $n$ is the number of observations in the sample
+* $x_i$ is the $i$th observation in the sample
+* $\bar{x}$ is the sample mean
+
+The bias in the sample variance occurs because the sample mean is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance will be biased estimates of the population variance.
+
+Bessel's correction corrects for this bias by subtracting 1 from the denominator of the formula for the sample variance. This correction makes the sample variance an unbiased estimate of the population variance.
+
+The formula for the sample variance with Bessel's correction is:
+
+```
+s^2_\text{corrected} = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n - 1}
+```
+
+As you can see, the only difference between the formulas with and without Bessel's correction is that the denominator of the fraction is n-1 instead of n.
+
+Bessel's correction is a simple and effective way to improve the accuracy of the sample variance. It is a widely used method in statistics, and it is generally considered to be the standard way to calculate this measure.
