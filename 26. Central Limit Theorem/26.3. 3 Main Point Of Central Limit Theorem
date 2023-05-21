@@ -1,0 +1,14 @@
+The three main points of the central limit theorem are:
+
+1. The distribution of sample means will be approximately normal, regardless of the distribution of the population from which the samples are drawn, as long as the sample size is large enough.
+2. The larger the sample size, the more closely the distribution of sample means will approximate a normal distribution.
+3. The mean of the distribution of sample means will be equal to the mean of the population.
+
+The central limit theorem is a fundamental theorem in statistics and is used in a wide variety of applications, such as hypothesis testing, confidence interval estimation, and statistical power analysis.
+
+Here are some examples of how the central limit theorem can be used:
+
+* A company wants to know the average height of all its employees. Instead of measuring the height of every employee, the company can randomly select a sample of employees and measure their heights. The central limit theorem tells us that the distribution of the sample means will be approximately normal, even if the distribution of heights in the population is not normal. This means that we can use the normal distribution to calculate a confidence interval for the average height of all employees.
+* A researcher wants to know the average IQ of all children in a certain city. Instead of testing every child in the city, the researcher can randomly select a sample of children and test their IQs. The central limit theorem tells us that the distribution of the sample means will be approximately normal, even if the distribution of IQs in the population is not normal. This means that we can use the normal distribution to calculate a confidence interval for the average IQ of all children in the city.
+
+The central limit theorem is a powerful tool that can be used to make inferences about populations based on samples. By understanding the CLT, you can better understand the limitations of your data and make more informed decisions.
