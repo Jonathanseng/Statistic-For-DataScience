@@ -1,0 +1,13 @@
+A standard score is a way of expressing a raw score in terms of its distance from the mean of a distribution, in units of standard deviation. It is calculated by subtracting the mean from the raw score and then dividing by the standard deviation.
+
+Standard scores are often used to compare scores from different tests or to compare scores within the same test over time. For example, if you take a standardized test, your score will be converted to a standard score so that you can compare your score to the scores of other people who took the same test.
+
+There are several different types of standard scores, but the most common type is the z-score. A z-score has a mean of 0 and a standard deviation of 1. This means that a z-score of 0 indicates that the raw score is equal to the mean, a z-score of 1 indicates that the raw score is one standard deviation above the mean, and a z-score of -1 indicates that the raw score is one standard deviation below the mean.
+
+Here are some examples of standard scores:
+
+* A student scores a 75 on a test with a mean of 60 and a standard deviation of 10. Their z-score is 1.5. This means that they scored 1.5 standard deviations above the mean.
+* A person's IQ score is 100. The average IQ score is 100 and the standard deviation is 15. This person's z-score is 0. This means that their IQ score is equal to the mean.
+* A company's stock price is \$50. The average stock price for the company is \$40 and the standard deviation is \$5. This company's stock price is 2 standard deviations above the mean.
+
+Standard scores can be a useful tool for comparing scores from different tests or to compare scores within the same test over time. They can also be used to identify outliers, which are scores that are significantly different from the rest of the data.
