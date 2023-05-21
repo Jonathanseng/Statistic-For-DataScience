@@ -1,0 +1,9 @@
+The three rules of the central limit theorem are as follows:
+
+1. **Random sampling:** The data should be sampled randomly. This means that each member of the population should have an equal chance of being selected for the sample.
+2. **Independent samples:** The samples should be independent of each other. This means that the selection of one sample should not affect the selection of any other sample.
+3. **Sufficient sample size:** The sample size should be sufficiently large. The exact sample size required will depend on the distribution of the population and the desired level of accuracy.
+
+If these rules are met, then the distribution of the sample means will be approximately normal, regardless of the distribution of the population. The mean of the distribution of sample means will be equal to the mean of the population, and the standard deviation of the distribution of sample means will be equal to the standard deviation of the population divided by the square root of the sample size.
+
+The central limit theorem is a powerful tool that can be used to make inferences about populations based on samples. By understanding the CLT, you can better understand the limitations of your data and make more informed decisions.
