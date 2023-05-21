@@ -1,0 +1,13 @@
+The sampling distribution of means is a useful tool in statistics for a variety of use cases. Some of the most common use cases include:
+
+* **Estimating the population mean.** The sampling distribution of means can be used to estimate the population mean by taking a random sample from the population and calculating the sample mean. The sample mean is an unbiased estimator of the population mean, which means that it is likely to be close to the true value of the population mean.
+* **Testing hypotheses about the population mean.** The sampling distribution of means can also be used to test hypotheses about the population mean. For example, you could use the sampling distribution to test the hypothesis that the population mean is equal to a certain value.
+* **Making inferences about the population.** The sampling distribution of means can also be used to make inferences about the population. For example, you could use the sampling distribution to estimate the probability that the population mean is within a certain range of values.
+
+Here are some examples of how the sampling distribution of means can be used in practice:
+
+* A company wants to know the average age of its employees. The company could take a random sample of employees and calculate the sample mean. The sample mean would be an unbiased estimate of the population mean.
+* A researcher wants to test the hypothesis that the average height of women is equal to 5'6". The researcher could take a random sample of women and calculate the sample mean. The researcher could then use the sampling distribution of means to calculate the p-value for the hypothesis test.
+* A government agency wants to make inferences about the average income of people in a certain country. The agency could take a random sample of people and calculate the sample mean. The agency could then use the sampling distribution of means to estimate the probability that the population mean is within a certain range of values.
+
+The sampling distribution of means is a powerful tool that can be used to estimate the population mean, test hypotheses about the population mean, and make inferences about the population.
