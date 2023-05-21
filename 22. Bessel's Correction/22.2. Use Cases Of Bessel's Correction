@@ -1,0 +1,14 @@
+Bessel's correction is a method used in statistics to correct for the bias in the estimation of the population variance and standard deviation. The bias occurs because the sample variance and standard deviation are calculated using the sample mean, which is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance and standard deviation will be biased estimates of the population variance and standard deviation.
+
+Bessel's correction corrects for this bias by using n-1 instead of n in the formula for the sample variance and standard deviation. Where n is the number of observations in the sample. This correction makes the sample variance and standard deviation unbiased estimates of the population variance and standard deviation.
+
+Bessel's correction is named after Friedrich Bessel, a German astronomer and mathematician who first proposed it in the 19th century.
+
+Here are some of the use cases of Bessel's correction:
+
+* **Hypothesis testing:** Bessel's correction can be used to calculate the degrees of freedom. The degrees of freedom are used to determine the critical value, which is used to make a decision about the null hypothesis.
+* **Confidence interval estimation:** Bessel's correction can be used to calculate the margin of error. The margin of error is used to construct a confidence interval around the sample mean.
+* **Regression analysis:** Bessel's correction can be used to calculate the standard errors of the regression coefficients. The standard errors are used to test the significance of the regression coefficients.
+* **ANOVA:** Bessel's correction can be used to calculate the F-statistic. The F-statistic is used to test the significance of the difference between two or more means.
+
+Bessel's correction is a simple and effective way to improve the accuracy of the sample variance and standard deviation. It is a widely used method in statistics, and it is generally considered to be the standard way to calculate these measures.
