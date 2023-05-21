@@ -1,0 +1,13 @@
+Bessel's correction is a method for correcting the errors that can occur when measuring the length of a pendulum. The correction is based on the fact that the pendulum's length is not constant, but rather varies with the amplitude of its swing. Bessel's correction takes this variation into account and can significantly improve the accuracy of the pendulum's length measurement.
+
+The main weak point of Bessel's correction is that it is only valid for small amplitudes of swing. For large amplitudes, the correction becomes increasingly inaccurate. This is because the pendulum's motion becomes non-linear and the assumptions that underlie Bessel's correction are no longer valid.
+
+Another weak point of Bessel's correction is that it is not always easy to apply. The correction requires knowledge of the pendulum's amplitude of swing, which can be difficult to measure accurately. Additionally, the correction is not always necessary. For small amplitudes of swing, the errors introduced by not applying the correction are usually small enough to be ignored.
+
+Overall, Bessel's correction is a useful tool for improving the accuracy of pendulum length measurements. However, it is important to be aware of its limitations and to use it only when appropriate.
+
+Here are some additional details about the weak points of Bessel's correction:
+
+* The correction is only valid for small amplitudes of swing. For large amplitudes, the correction becomes increasingly inaccurate.
+* The correction requires knowledge of the pendulum's amplitude of swing, which can be difficult to measure accurately.
+* The correction is not always necessary. For small amplitudes of swing, the errors introduced by not applying the correction are usually small enough to be ignored.
