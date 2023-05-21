@@ -1,0 +1,23 @@
+The Central Limit Theorem (CLT) is a powerful tool in statistics, but it does have some limitations. One limitation is that the CLT assumes that the data is independent. This means that the value of one data point should not affect the value of any other data point. In reality, data is often not independent, and this can lead to errors in inferences made using the CLT.
+
+Another limitation of the CLT is that it assumes that the data is normally distributed. This is a strong assumption, and it is often not met in practice. When the data is not normally distributed, the CLT may not be accurate, and inferences made using the CLT may be incorrect.
+
+Finally, the CLT assumes that the sample size is large enough. If the sample size is too small, the CLT may not be accurate, and inferences made using the CLT may be incorrect.
+
+Despite these limitations, the CLT is a powerful tool in statistics. When the assumptions of the CLT are met, it can be used to make accurate inferences about populations based on samples.
+
+Here are some of the limitations of the CLT:
+
+* The CLT assumes that the data is independent.
+* The CLT assumes that the data is normally distributed.
+* The CLT assumes that the sample size is large enough.
+
+These assumptions may not be met in practice, which can lead to errors in inferences made using the CLT. It is important to be aware of these limitations and to take steps to mitigate them when using the CLT.
+
+Here are some ways to mitigate the limitations of the CLT:
+
+* Use a larger sample size. The larger the sample size, the more likely the CLT will be accurate.
+* Use a non-parametric test. Non-parametric tests do not assume that the data is normally distributed.
+* Use a robust estimator. Robust estimators are less sensitive to violations of the CLT's assumptions.
+
+By taking these steps, you can help to ensure that your inferences made using the CLT are accurate.
