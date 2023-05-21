@@ -1,0 +1,39 @@
+
+A standard score is a measure of how far a raw score is from the mean, in units of standard deviation. It is calculated by subtracting the mean from the raw score and then dividing the difference by the standard deviation. Standard scores are also known as z-scores.
+
+Standard scores are used to compare scores from different tests or scales that have different means and standard deviations. For example, the SAT and ACT are both standardized tests that are used to assess college readiness. The SAT has a mean of 500 and a standard deviation of 100, while the ACT has a mean of 20 and a standard deviation of 5. This means that a score of 600 on the SAT is equivalent to a score of 30 on the ACT.
+
+Standard scores are also used to compare scores within the same test or scale. For example, the GRE is a standardized test that is used to assess graduate school readiness. The GRE has a mean of 500 and a standard deviation of 100. This means that a score of 600 on the GRE is one standard deviation above the mean, while a score of 400 is one standard deviation below the mean.
+
+Standard scores can be used to make decisions about individuals or groups. For example, a school might use standard scores to decide which students are eligible for the gifted and talented program. A company might use standard scores to decide which employees are eligible for promotion.
+
+Standard scores are a useful tool for comparing scores from different tests or scales, or for comparing scores within the same test or scale. They can be used to make decisions about individuals or groups.
+
+Here is the formula for calculating a standard score:
+
+```
+z = (x - μ) / σ
+```
+
+where:
+
+* z is the standard score
+* x is the raw score
+* μ is the mean
+* σ is the standard deviation
+
+Here is an example of how to calculate a standard score:
+
+* A student's raw score on a test is 75.
+* The mean score on the test is 60.
+* The standard deviation on the test is 10.
+
+To calculate the student's standard score, we would use the following formula:
+
+```
+z = (75 - 60) / 10 = 1.5
+```
+
+This means that the student's score is 1.5 standard deviations above the mean.
+
+Standard scores are a useful tool for comparing scores from different tests or scales, or for comparing scores within the same test or scale. They can be used to make decisions about individuals or groups.
