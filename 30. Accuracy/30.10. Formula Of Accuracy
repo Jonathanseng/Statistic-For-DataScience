@@ -1,0 +1,22 @@
+The formula for accuracy in statistics is:
+
+```
+Accuracy = (TP + TN) / (TP + TN + FP + FN)
+```
+
+Where:
+
+* TP = True Positives
+* TN = True Negatives
+* FP = False Positives
+* FN = False Negatives
+
+True Positives are instances where the model correctly predicts the positive class. True Negatives are instances where the model correctly predicts the negative class. False Positives are instances where the model incorrectly predicts the positive class. False Negatives are instances where the model incorrectly predicts the negative class.
+
+Accuracy is a measure of how often the model correctly predicts the class of an instance. A higher accuracy indicates that the model is better at making predictions.
+
+For example, if a model is used to predict whether a person has cancer, and the model correctly predicts that 90 people have cancer and correctly predicts that 100 people do not have cancer, then the accuracy of the model is 95%.
+
+Accuracy is a simple and easy-to-understand measure of model performance. However, it is important to note that accuracy is not always the best measure of model performance. For example, if a model is used to predict whether a person will click on an ad, then a high accuracy may not be desirable if the model is also predicting that a large number of people who will not click on the ad will click on the ad. In this case, a model with a lower accuracy may be more desirable if it is better at predicting which people are more likely to click on the ad.
+
+There are a number of other measures of model performance that can be used in addition to accuracy. These measures can be used to get a more complete picture of how well a model is performing.
