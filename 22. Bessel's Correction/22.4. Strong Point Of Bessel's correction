@@ -1,0 +1,15 @@
+The strong point of Bessel's correction is that it corrects for the bias in the estimation of the population variance and standard deviation. The bias occurs because the sample mean is an estimate of the population mean. The sample mean is not always equal to the population mean, so the sample variance and standard deviation will be biased estimates of the population variance and standard deviation.
+
+Bessel's correction corrects for this bias by subtracting 1 from the denominator of the formula for the sample variance and standard deviation. This correction makes the sample variance and standard deviation unbiased estimates of the population variance and standard deviation.
+
+Bessel's correction is a simple and effective way to improve the accuracy of the sample variance and standard deviation. It is a widely used method in statistics, and it is generally considered to be the standard way to calculate these measures.
+
+Here are some of the strong points of Bessel's correction:
+
+* It is a simple and effective way to improve the accuracy of the sample variance and standard deviation.
+* It is a widely used method in statistics, and it is generally considered to be the standard way to calculate these measures.
+* It is relatively easy to understand and apply.
+* It is not computationally expensive.
+* It is not sensitive to the distribution of the data.
+
+Overall, Bessel's correction is a valuable tool for improving the accuracy of statistical estimates.
