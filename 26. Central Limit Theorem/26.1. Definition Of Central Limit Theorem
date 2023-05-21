@@ -1,0 +1,15 @@
+
+The central limit theorem (CLT) is a theorem in probability theory that states that, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined expected value and well-defined variance, will be approximately normally distributed, regardless of the underlying distribution.
+
+In other words, the CLT states that the distribution of sample means will be approximately normal, regardless of the distribution of the population from which the samples are drawn, as long as the sample size is large enough.
+
+The CLT is a fundamental theorem in statistics and is used in a wide variety of applications, such as hypothesis testing, confidence interval estimation, and statistical power analysis.
+
+Here are some of the key characteristics of the CLT:
+
+* The CLT applies to any population distribution, as long as the samples are drawn randomly and independently.
+* The larger the sample size, the more closely the distribution of sample means will approximate a normal distribution.
+* The mean of the distribution of sample means will be equal to the mean of the population.
+* The standard deviation of the distribution of sample means will be equal to the standard deviation of the population divided by the square root of the sample size.
+
+The CLT is a powerful tool that can be used to make inferences about populations based on samples. By understanding the CLT, you can better understand the limitations of your data and make more informed decisions.
