@@ -1,0 +1,18 @@
+The formula for precision is:
+
+```
+Precision = True Positives / (True Positives + False Positives)
+```
+
+Where:
+
+* True Positives are the number of correctly classified positive instances.
+* False Positives are the number of incorrectly classified positive instances.
+
+Precision measures the proportion of predicted positive instances that are actually positive. A high precision indicates that a model is good at identifying positive instances, while a low precision indicates that a model is more likely to identify negative instances as positive.
+
+For example, if a model predicts 100 instances and 90 of them are correctly classified as positive, then the precision is 90%. This means that the model is good at identifying positive instances, and it is only misclassifying 10% of the positive instances.
+
+Precision is often used in conjunction with recall to evaluate the performance of a model. Recall measures the proportion of actual positive instances that are correctly classified. A high recall indicates that a model is good at identifying all of the positive instances, while a low recall indicates that a model is missing some of the positive instances.
+
+The F1 score is a measure that combines precision and recall. It is calculated as the harmonic mean of precision and recall. A high F1 score indicates that a model is good at both identifying positive instances and identifying all of the positive instances.
