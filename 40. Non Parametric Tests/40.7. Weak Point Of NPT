@@ -1,0 +1,15 @@
+Nonparametric tests are a valuable tool for data analysis, but they do have some weaknesses. One of the main weaknesses of nonparametric tests is that they are less powerful than parametric tests. This means that they are less likely to detect a difference between groups, even if there is a real difference.
+
+Another weakness of nonparametric tests is that they are not as versatile as parametric tests. Parametric tests can be used to analyze a wider variety of data types, while nonparametric tests are typically limited to ordinal or nominal data.
+
+Finally, nonparametric tests can be more difficult to interpret than parametric tests. This is because the results of nonparametric tests are not as easily explained in terms of statistical significance.
+
+Despite these weaknesses, nonparametric tests can be a valuable tool for data analysis. They are a good choice when the data is not normally distributed or when the sample size is small. Additionally, nonparametric tests can be a good choice when the researcher wants a test that is not as sensitive to violations of assumptions as a parametric test.
+
+Here are some additional weaknesses of nonparametric tests:
+
+* They may not be as sensitive to differences in the data as parametric tests.
+* They may not be as versatile as parametric tests.
+* They can be more difficult to interpret than parametric tests.
+
+It is important to weigh the strengths and weaknesses of nonparametric tests before deciding whether to use them.
