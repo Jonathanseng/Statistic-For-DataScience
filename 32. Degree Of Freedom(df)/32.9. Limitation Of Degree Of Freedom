@@ -1,0 +1,17 @@
+The limitation of degree of freedom is that it is a measure of the number of independent variables that can be estimated in a statistical analysis. This means that the more degrees of freedom there are, the more precise the estimates will be. However, too many degrees of freedom can lead to overfitting, which is when the model fits the data too closely and does not generalize well to new data.
+
+Here are some of the limitations of degree of freedom:
+
+* It is a measure of the number of independent variables, not the number of observations. This means that it can be misleading in cases where there are many correlated variables.
+* It is not a measure of the accuracy of the model. A model with a high degree of freedom can still be inaccurate if the data is not well-represented.
+* It is not a measure of the robustness of the model. A model with a high degree of freedom can still be sensitive to changes in the data.
+
+Overall, degree of freedom is a useful tool for understanding the complexity of a statistical model. However, it is important to be aware of its limitations and not to rely on it too heavily.
+
+Here are some additional limitations of degree of freedom:
+
+* It can be difficult to calculate the exact degrees of freedom for a complex model.
+* The degrees of freedom can be affected by the choice of statistical test.
+* The degrees of freedom can be affected by the presence of outliers in the data.
+
+Despite these limitations, degree of freedom is a valuable tool for understanding the complexity of statistical models.
