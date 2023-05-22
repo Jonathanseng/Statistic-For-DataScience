@@ -1,0 +1,29 @@
+A confidence interval is a range of values that is likely to contain a population parameter. The confidence level is the probability that the interval contains the parameter. For example, a 95% confidence interval means that there is a 95% chance that the interval contains the parameter.
+
+Confidence limits are the upper and lower bounds of a confidence interval. They are calculated using the sample statistic, the standard error of the statistic, and the confidence level.
+
+To calculate a confidence interval, you need to know the following:
+
+* The sample statistic: This is the value of the statistic that you are using to estimate the population parameter. For example, if you are estimating the mean height of a population, the sample statistic would be the mean height of your sample.
+* The standard error of the statistic: This is a measure of how much variation there is in the statistic from sample to sample. It is calculated using the sample size and the standard deviation of the population.
+* The confidence level: This is the probability that the interval contains the parameter. For example, a 95% confidence interval means that there is a 95% chance that the interval contains the parameter.
+
+Once you have these three pieces of information, you can use the following formula to calculate the confidence interval:
+
+```
+Confidence interval = sample statistic ± (standard error of the statistic * z-score)
+```
+
+where z-score is the number of standard errors that you want to be confident that the interval contains the parameter. For a 95% confidence interval, z-score is 1.96.
+
+For example, if the sample statistic is 50, the standard error of the statistic is 2, and the confidence level is 95%, then the confidence interval is:
+
+```
+Confidence interval = 50 ± (2 * 1.96) = 45.04 to 54.96
+```
+
+This means that we are 95% confident that the true mean height of the population is between 45.04 and 54.96 inches.
+
+Confidence intervals can be used to make inferences about populations. For example, if we were to conduct a study to estimate the mean height of a population, we could use the confidence interval to determine whether the mean height is significantly different from a certain value. For example, if we found that the confidence interval for the mean height did not include 6 feet, then we could conclude that the mean height of the population is significantly less than 6 feet.
+
+Confidence intervals are a powerful tool for making inferences about populations. They allow us to estimate the range of values that is likely to contain a population parameter, and they can be used to determine whether the mean of a population is significantly different from a certain value.
