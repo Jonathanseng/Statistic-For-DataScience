@@ -1,0 +1,19 @@
+T-scores and Student's t-scores are both statistical measures that are used to compare the results of two different groups. However, there are some limitations to their use.
+
+One limitation of T-scores is that they are only accurate for small sample sizes. When the sample size is large, the t-distribution becomes more normal and the T-score is more accurate.
+
+Another limitation of T-scores is that they are not always sensitive to differences in the means of the two groups. If the means of the two groups are very close together, the T-score may not be able to detect a significant difference.
+
+Finally, T-scores are not always reliable. If the data is not normally distributed, the T-score may not be accurate.
+
+Student's t-test is also limited by the assumption that the data is normally distributed. If the data is not normally distributed, the results of the t-test may be inaccurate.
+
+Despite these limitations, T-scores and Student's t-scores can be useful tools for comparing the results of two different groups. When used correctly, they can provide valuable information about the differences between the two groups.
+
+Here are some additional limitations of T-scores and Student's t-tests:
+
+* They are not always sensitive to differences in the variances of the two groups.
+* They can be affected by outliers, or extreme values.
+* They can be affected by the choice of the significance level.
+
+It is important to be aware of these limitations when using T-scores and Student's t-tests. By understanding the limitations, you can make more informed decisions about when to use these statistical tools.
