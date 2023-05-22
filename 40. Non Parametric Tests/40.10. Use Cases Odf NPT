@@ -1,0 +1,19 @@
+Nonparametric tests are a type of statistical test that does not make any assumptions about the underlying distribution of the data. This makes them a good choice for situations where the data may not be normally distributed, or where the researcher does not know the distribution of the data.
+
+Some of the use cases of nonparametric tests include:
+
+* **Comparing two groups:** Nonparametric tests can be used to compare two groups of data, such as the heights of two groups of people or the test scores of two groups of students.
+* **Comparing more than two groups:** Nonparametric tests can also be used to compare more than two groups of data, such as the salaries of three different companies or the ages of four different groups of people.
+* **Determining if there is a relationship between two variables:** Nonparametric tests can be used to determine if there is a relationship between two variables, such as the height and weight of people or the test scores and the amount of time spent studying.
+* **Making predictions about future events:** Nonparametric tests can be used to make predictions about future events, such as the likelihood of a person getting a certain disease or the probability of a team winning a game.
+
+Nonparametric tests are a versatile tool that can be used in a wide variety of situations. They are a good choice when the data is not normally distributed or when the researcher does not know the distribution of the data.
+
+Here are some examples of specific use cases of nonparametric tests:
+
+* The Mann-Whitney U test is used to compare two independent groups.
+* The Wilcoxon signed-rank test is used to compare two dependent groups.
+* The Kruskal-Wallis test is used to compare more than two independent groups.
+* The Friedman test is used to compare more than two dependent groups.
+
+These are just a few examples of the many nonparametric tests that are available. The best test to use in a particular situation will depend on the specific research question and the characteristics of the data.
