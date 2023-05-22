@@ -1,0 +1,22 @@
+Statistical testing is a process of using data to make inferences about a population. It is used to answer questions about the distribution of a variable, the relationship between two or more variables, or the difference between two or more groups.
+
+Statistical testing works by comparing the observed data to a set of assumptions. These assumptions are called the null hypothesis. The null hypothesis is a statement that there is no difference between the groups or variables being studied.
+
+If the observed data is significantly different from what would be expected under the null hypothesis, then the null hypothesis is rejected. This means that there is evidence to suggest that there is a difference between the groups or variables being studied.
+
+The level of significance is a measure of how likely it is that the observed difference is due to chance. The level of significance is typically set at 0.05, which means that there is a 5% chance that the observed difference is due to chance.
+
+If the level of significance is less than 0.05, then the null hypothesis is rejected. This means that there is evidence to suggest that there is a difference between the groups or variables being studied.
+
+Statistical testing is a powerful tool that can be used to make inferences about a population. However, it is important to remember that statistical testing cannot prove anything. It can only provide evidence to suggest that there is a difference between the groups or variables being studied.
+
+Here are some of the steps involved in statistical testing:
+
+1. **Define the research question.** What do you want to know about the population?
+2. **Collect data.** This can be done through surveys, experiments, or other methods.
+3. **Choose a statistical test.** There are many different statistical tests available, and the choice of test will depend on the type of data you have and the research question you are trying to answer.
+4. **Calculate the test statistic.** This is a number that measures the difference between the observed data and the expected data under the null hypothesis.
+5. **Calculate the p-value.** This is a probability that the observed difference is due to chance.
+6. **Make a decision.** If the p-value is less than the level of significance, then the null hypothesis is rejected. This means that there is evidence to suggest that there is a difference between the groups or variables being studied.
+
+Statistical testing can be a complex process, but it is a powerful tool that can be used to make inferences about a population.
