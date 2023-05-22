@@ -1,0 +1,8 @@
+
+In statistics, a t-score is a number that tells you how far an individual data point is from the mean of a group of data, in units of standard deviations. A Student's t-test is a statistical test that is used to compare the means of two groups of data.
+
+T-scores are typically used in educational settings to compare the scores of students on standardized tests. For example, a student who scores a t-score of 1.5 on a standardized math test is 1.5 standard deviations above the mean for all students who took the test. This means that the student scored higher than 87.5% of the other students who took the test.
+
+Student's t-tests are typically used to compare the means of two groups of data when the population standard deviation is unknown. For example, a researcher may want to compare the average height of men and women. The researcher could collect data on the height of a sample of men and a sample of women and then use a Student's t-test to compare the means of the two groups.
+
+T-scores and Student's t-tests are both powerful tools that can be used to analyze data. However, it is important to remember that they are only statistical tools and should not be used as the sole basis for making decisions.
