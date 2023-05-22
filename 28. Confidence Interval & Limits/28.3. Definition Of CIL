@@ -1,0 +1,16 @@
+A confidence interval is a range of values that is likely to contain a population parameter. For example, if you want to estimate the average height of all men in the United States, you could take a sample of men and calculate the average height of the sample. The confidence interval for the average height of all men in the United States would be the range of values that is likely to contain the true average height.
+
+The confidence interval is calculated using the sample mean, the standard error of the mean, and the confidence level. The confidence level is the probability that the confidence interval contains the population parameter. The most common confidence level is 95%, which means that there is a 95% chance that the confidence interval contains the population parameter.
+
+The confidence limits are the upper and lower bounds of the confidence interval. The upper confidence limit is the highest value that is likely to contain the population parameter, and the lower confidence limit is the lowest value that is likely to contain the population parameter.
+
+For example, if you calculate a 95% confidence interval for the average height of all men in the United States and the confidence limits are 67 inches and 71 inches, then you can be 95% confident that the true average height of all men in the United States is between 67 inches and 71 inches.
+
+Confidence intervals are used to estimate population parameters from sample data. They can be used to make inferences about the population, such as whether the population mean is significantly different from a certain value. Confidence intervals are also used to compare two or more populations.
+
+Here are some examples of how confidence intervals can be used:
+
+* A company wants to estimate the average age of its employees. The company takes a sample of employees and calculates the average age of the sample. The company then calculates a 95% confidence interval for the average age of all employees. The confidence interval is 35 to 45 years old. The company can be 95% confident that the true average age of all employees is between 35 and 45 years old.
+* A researcher wants to know if there is a difference in the average height of men and women. The researcher takes a sample of men and a sample of women and calculates the average height of each sample. The researcher then calculates a 95% confidence interval for the difference in the average height of men and women. The confidence interval is 1 inch. The researcher can be 95% confident that the true difference in the average height of men and women is between 0 and 2 inches.
+
+Confidence intervals are a valuable tool for making inferences about populations from sample data. They provide a way to quantify the uncertainty in estimates of population parameters.
