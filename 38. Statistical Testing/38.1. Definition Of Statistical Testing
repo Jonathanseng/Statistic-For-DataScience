@@ -1,0 +1,34 @@
+
+Statistical testing is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis. In other words, it is a way of determining whether the observed data is likely to have occurred by chance or whether it is more likely to be due to some underlying cause.
+
+Statistical testing is used in a wide variety of fields, including research, business, and government. It can be used to make decisions about a variety of things, such as whether a new drug is effective, whether a marketing campaign is successful, or whether a new policy is fair.
+
+There are many different types of statistical tests, each of which is designed to answer a specific question. Some of the most common types of statistical tests include:
+
+* t-tests: Used to compare the means of two groups
+* ANOVA: Used to compare the means of three or more groups
+* chi-squared tests: Used to test for independence or association between two variables
+* regression analysis: Used to predict the value of one variable from the value of another variable
+
+Statistical testing can be a complex and challenging process, but it is a powerful tool that can be used to make informed decisions about a wide variety of topics.
+
+Here are some of the steps involved in statistical testing:
+
+1. **State the hypothesis.** The first step in statistical testing is to state the hypothesis that you want to test. A hypothesis is a statement about the relationship between two variables. For example, you might hypothesize that there is a relationship between the amount of sleep a person gets and their test scores.
+2. **Collect data.** Once you have stated your hypothesis, you need to collect data to test it. The data you collect should be relevant to the hypothesis you are testing and should be collected in a way that is as accurate and unbiased as possible.
+3. **Choose a statistical test.** There are many different types of statistical tests, each of which is designed to answer a specific question. You need to choose a statistical test that is appropriate for the type of data you have collected and the hypothesis you are testing.
+4. **Calculate the test statistic.** Once you have chosen a statistical test, you need to calculate the test statistic. The test statistic is a number that summarizes the evidence for or against the hypothesis.
+5. **Find the p-value.** The p-value is a probability that tells you how likely it is to get the results you observed if the null hypothesis is true. The null hypothesis is the hypothesis that there is no relationship between the variables you are testing.
+6. **Make a decision.** Finally, you need to make a decision about whether to reject the null hypothesis or not. If the p-value is less than a certain level (usually 0.05), then you can reject the null hypothesis and conclude that there is evidence to support your hypothesis. If the p-value is greater than 0.05, then you cannot reject the null hypothesis and you cannot conclude that there is evidence to support your hypothesis.
+
+Statistical testing is a powerful tool that can be used to make informed decisions about a wide variety of topics. However, it is important to remember that statistical testing is not a magic bullet. The results of a statistical test can only tell you so much. It is important to use your judgment and to consider all of the evidence before making a decision.
+
+Here are some of the key terms associated with statistical testing:
+
+* **Null hypothesis:** The hypothesis that there is no relationship between the variables you are testing.
+* **Alternative hypothesis:** The hypothesis that there is a relationship between the variables you are testing.
+* **Test statistic:** A number that summarizes the evidence for or against the hypothesis.
+* **p-value:** A probability that tells you how likely it is to get the results you observed if the null hypothesis is true.
+* **Statistical significance:** A decision to reject the null hypothesis based on the p-value.
+
+Statistical testing is a complex and challenging process, but it is a powerful tool that can be used to make informed decisions about a wide variety of topics.
