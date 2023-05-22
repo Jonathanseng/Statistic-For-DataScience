@@ -1,0 +1,17 @@
+We need degrees of freedom in statistics because they help us to make accurate estimates. With more degrees of freedom, our estimates will be more accurate. With fewer degrees of freedom, our estimates will be less accurate.
+
+Here are some of the reasons why we need degrees of freedom:
+
+* **To calculate p-values**
+
+P-values are used to determine the statistical significance of our results. A p-value is the probability of getting the results we observed if the null hypothesis is true. With more degrees of freedom, our p-values will be smaller. This means that it will be less likely that we will get a significant result if the null hypothesis is true.
+
+* **To calculate confidence intervals**
+
+Confidence intervals are used to estimate the range of values that the parameter we are estimating is likely to lie in. With more degrees of freedom, our confidence intervals will be narrower. This means that we can be more confident that the interval contains the true value of the parameter.
+
+* **To calculate the standard error of the estimate**
+
+The standard error of the estimate is a measure of how accurate our estimates are. With more degrees of freedom, our standard errors will be smaller. This means that we can be more confident that our estimates are accurate.
+
+In conclusion, degrees of freedom are a fundamental concept in statistics. They are used in a variety of statistical procedures and they affect the accuracy of our estimates.
