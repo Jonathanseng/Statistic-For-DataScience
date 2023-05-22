@@ -1,0 +1,7 @@
+There are several reasons why we need nonparametric tests.
+
+* **The data is not normally distributed.** Parametric tests make assumptions about the distribution of the data, such as that it is normally distributed. If the data is not normally distributed, then the results of a parametric test may be inaccurate. Nonparametric tests do not make any assumptions about the distribution of the data, so they can be used when the data is not normally distributed.
+* **The sample size is small.** Parametric tests require a large sample size to be accurate. If the sample size is small, then the results of a parametric test may be inaccurate. Nonparametric tests can be used with small sample sizes, so they are a good choice when the sample size is limited.
+* **The data is ordinal or nominal.** Parametric tests can only be used with data that is interval or ratio level. If the data is ordinal or nominal, then a nonparametric test must be used.
+
+Nonparametric tests are a valuable tool for data analysis. They can be used to answer a wide variety of questions, and they are not as sensitive to violations of assumptions as parametric tests.
