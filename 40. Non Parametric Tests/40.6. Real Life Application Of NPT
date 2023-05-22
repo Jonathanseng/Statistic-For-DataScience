@@ -1,0 +1,16 @@
+Nonparametric tests are used in a wide variety of real-world applications. Some examples include:
+
+* **Comparing the heights of two groups of people.** The Mann-Whitney U test can be used to compare the heights of two groups of people.
+* **Comparing the weights of two groups of animals.** The Wilcoxon signed-rank test can be used to compare the weights of two groups of animals.
+* **Comparing the salaries of two groups of employees.** The Kruskal-Wallis test can be used to compare the salaries of two groups of employees.
+* **Comparing the test scores of two groups of students.** The Friedman test can be used to compare the test scores of two groups of students.
+
+Nonparametric tests are a valuable tool for data analysis. They can be used to answer a wide variety of questions, and they are not as sensitive to violations of assumptions as parametric tests.
+
+Here are some other real-world applications of nonparametric tests:
+
+* **Comparing the effectiveness of two different treatments for a disease.** A nonparametric test can be used to compare the effectiveness of two different treatments for a disease, even if the data is not normally distributed.
+* **Determining if there is a relationship between two variables.** A nonparametric test can be used to determine if there is a relationship between two variables, even if the data is not normally distributed.
+* **Making predictions about future events.** A nonparametric test can be used to make predictions about future events, even if the data is not normally distributed.
+
+Nonparametric tests are a versatile tool that can be used in a wide variety of real-world applications.
