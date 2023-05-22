@@ -1,0 +1,18 @@
+T-scores and Student's t-scores are both statistical measures that are used to compare different sets of data. T-scores are calculated by taking the difference between a data point and the mean of the data set, and then dividing that difference by the standard deviation of the data set. Student's t-scores are calculated in a similar way, but they also take into account the sample size of the data set.
+
+The main advantage of T-scores and Student's t-scores is that they allow you to compare data sets that have different means and standard deviations. This is because T-scores and Student's t-scores are standardized, which means that they are all on the same scale. This makes it easy to compare different data sets and to see how they differ from each other.
+
+Another advantage of T-scores and Student's t-scores is that they are relatively easy to calculate. This makes them a good choice for researchers who are not familiar with more complex statistical methods.
+
+Here are some of the strong points of T-scores and Student's t-scores:
+
+* They are used to compare different sets of data.
+* They are standardized, which means that they are all on the same scale.
+* They are relatively easy to calculate.
+
+Here are some of the limitations of T-scores and Student's t-scores:
+
+* They are not as accurate as other statistical methods when the sample size is small.
+* They can be sensitive to outliers, which are data points that are very different from the rest of the data set.
+
+Overall, T-scores and Student's t-scores are a useful tool for comparing different sets of data. They are relatively easy to calculate and they can be used to compare data sets that have different means and standard deviations. However, it is important to be aware of their limitations, such as their sensitivity to outliers and their inaccuracy with small sample sizes.
