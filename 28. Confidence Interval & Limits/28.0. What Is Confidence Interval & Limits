@@ -1,0 +1,16 @@
+A confidence interval (CI) is a range of values that is likely to include an unknown population parameter. The confidence level is the probability that the interval contains the parameter. For example, a 95% confidence interval means that there is a 95% chance that the interval contains the parameter.
+
+Confidence limits are the upper and lower bounds of a confidence interval. For example, a 95% confidence interval with confidence limits of 5.4 and 9.4 means that there is a 95% chance that the true mean is between 5.4 and 9.4.
+
+Confidence intervals are used to estimate population parameters from sample data. For example, if you want to estimate the mean height of all adult women in the United States, you could take a sample of adult women and calculate the mean height of the sample. The confidence interval for the mean height of all adult women would be the range of values that is likely to include the true mean height of all adult women.
+
+The width of a confidence interval is determined by the sample size and the standard deviation of the population. The larger the sample size, the narrower the confidence interval. The larger the standard deviation of the population, the wider the confidence interval.
+
+Confidence intervals can be used to make decisions about a population parameter. For example, if you want to know if the mean height of all adult women in the United States is greater than 6 feet, you could calculate the confidence interval for the mean height. If the confidence interval does not include 6 feet, then you can be 95% confident that the mean height of all adult women in the United States is less than 6 feet.
+
+Here are some additional details about confidence intervals:
+
+* Confidence intervals are always stated with a confidence level. The most common confidence levels are 95% and 99%.
+* Confidence intervals are calculated using sample data.
+* The width of a confidence interval is determined by the sample size and the standard deviation of the population.
+* Confidence intervals can be used to make decisions about a population parameter.
