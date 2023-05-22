@@ -1,0 +1,23 @@
+Confidence intervals are a powerful tool for making inferences about populations based on samples. However, they have some limitations, including:
+
+* **They are based on assumptions.** Confidence intervals are based on the assumption that the data is normally distributed. If the data is not normally distributed, the confidence interval may not be accurate.
+* **They are not exact.** Confidence intervals are a range of values that are likely to contain the true population mean. However, there is always a chance that the true population mean is outside of the confidence interval.
+* **They can be misleading.** If the confidence interval is wide, it can be difficult to make inferences about the population mean. A wide confidence interval means that there is a lot of uncertainty about the true population mean.
+
+Despite these limitations, confidence intervals are a valuable tool for making inferences about populations based on samples. They are used in a wide variety of real-world applications, and can help us to make better decisions.
+
+Here are some additional limitations of confidence intervals:
+
+* **They can be sensitive to outliers.** Outliers are data points that are significantly different from the rest of the data. Outliers can widen the confidence interval and make it more difficult to make inferences about the population mean.
+* **They can be affected by the sample size.** The width of the confidence interval is inversely proportional to the square root of the sample size. This means that a larger sample size will result in a narrower confidence interval.
+* **They can be affected by the confidence level.** The confidence level is the probability that the confidence interval will contain the true population mean. A higher confidence level will result in a wider confidence interval.
+
+It is important to be aware of the limitations of confidence intervals when using them to make inferences about populations. By understanding these limitations, you can use confidence intervals more effectively to make better decisions.
+
+Here are some additional things to keep in mind when using confidence intervals:
+
+* **Confidence intervals are not always necessary.** If you are only interested in making a yes/no decision about a population parameter, then you may not need to use a confidence interval. For example, if you are only interested in whether or not the average height of women is greater than 5'4", then you can simply conduct a hypothesis test.
+* **Confidence intervals can be misleading if they are not interpreted correctly.** It is important to remember that a confidence interval is a range of values that is likely to contain the true population parameter. It does not prove that the true population parameter is within the range.
+* **Confidence intervals can be used to compare two populations.** If you have data from two populations, then you can use confidence intervals to compare the two populations. For example, you can use confidence intervals to compare the average height of men to the average height of women.
+
+Overall, confidence intervals are a valuable tool for making inferences about populations based on samples. However, it is important to be aware of their limitations and to interpret them correctly.
