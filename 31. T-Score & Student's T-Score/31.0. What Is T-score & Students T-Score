@@ -1,0 +1,21 @@
+A T-score is a statistical measure that is used to compare an individual's score on a test to the scores of other people who have taken the same test. It is calculated by subtracting the mean score from the individual's score and then dividing by the standard deviation. T-scores are typically reported on a scale of 0 to 100, with a mean of 50 and a standard deviation of 10.
+
+A Student's T-score is a type of T-score that is used in statistical hypothesis testing. It is calculated by dividing the difference between the sample mean and the population mean by the standard error of the mean. Student's T-scores are typically used to test for the significance of differences between two means.
+
+T-scores and Student's T-scores are both important statistical measures that are used in a variety of settings. They can be used to compare individual scores to the scores of others, to test for the significance of differences between two means, and to make inferences about populations based on samples.
+
+Here are some examples of how T-scores and Student's T-scores can be used:
+
+* A teacher can use T-scores to compare the scores of her students on a standardized test to the scores of other students in the same grade level.
+* A researcher can use Student's T-scores to test whether there is a significant difference in the average height of men and women.
+* A company can use T-scores to compare the scores of its employees on a personality test to the scores of employees in other companies.
+
+T-scores and Student's T-scores are both powerful statistical tools that can be used to make informed decisions.
+
+Here are some additional details about T-scores and Student's T-scores:
+
+* T-scores are a way of standardizing scores so that they can be compared across different tests. This is important because different tests can have different scoring systems, making it difficult to compare scores directly.
+* Student's T-scores are used in statistical hypothesis testing to determine whether there is a statistically significant difference between two means. A statistically significant difference means that the difference between the means is unlikely to have occurred by chance.
+* T-scores and Student's T-scores are both based on the normal distribution, which is a bell-shaped curve that is used to represent the distribution of data in a population. The normal distribution has a mean of 0 and a standard deviation of 1. This means that 68% of the data in a population will fall within 1 standard deviation of the mean, 16% of the data will fall below 1 standard deviation of the mean, and 16% of the data will fall above 1 standard deviation of the mean. Similarly, 95% of the data in a population will fall within 2 standard deviations of the mean, and 99.7% of the data will fall within 3 standard deviations of the mean.
+
+I hope this helps!
