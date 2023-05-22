@@ -1,0 +1,13 @@
+Nonparametric tests work by ranking the data and then using the ranks to calculate a test statistic. The test statistic is then compared to a critical value to determine whether the null hypothesis can be rejected.
+
+Here is an example of how a nonparametric test works:
+
+* Suppose we want to compare the heights of two groups of people, Group A and Group B.
+* We collect the heights of all the people in each group and rank them from smallest to largest.
+* We then calculate the test statistic, which is the sum of the ranks for Group A.
+* We then look up the critical value for the test statistic in a table.
+* If the test statistic is equal to or greater than the critical value, then we reject the null hypothesis and conclude that there is a significant difference in the heights of the two groups.
+
+There are many different types of nonparametric tests, each of which is designed to answer a specific question. The most common type of nonparametric test is the rank-sum test, which is used to compare the means of two independent groups.
+
+Nonparametric tests are a valuable tool for data analysis. They can be used to answer a wide variety of questions, and they are not as sensitive to violations of assumptions as parametric tests.
