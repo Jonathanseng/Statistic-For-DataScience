@@ -1,0 +1,17 @@
+P-values are a measure of the probability of obtaining a result at least as extreme as the one observed, given that the null hypothesis is true. The null hypothesis is the statement that there is no difference between the two groups being compared. A p-value of less than 0.05 is typically considered to be statistically significant, meaning that there is a less than 5% chance that the observed result could have occurred by chance alone.
+
+However, there are a number of limitations to using p-values. One limitation is that p-values do not tell you anything about the size of the effect. A p-value of 0.05 could be obtained for a very small effect, or for a very large effect. It is important to consider the effect size when interpreting p-values.
+
+Another limitation of p-values is that they can be misleading if the study design is flawed. For example, if the study is not well-powered, a p-value of 0.05 could be obtained even if there is no real difference between the two groups being compared.
+
+Finally, p-values can be misinterpreted. Some people mistakenly believe that a p-value of 0.05 means that there is a 95% chance that the null hypothesis is true. This is not the case. A p-value of 0.05 simply means that there is a 5% chance that the observed result could have occurred by chance alone.
+
+Overall, p-values are a useful tool for statistical analysis, but they should be interpreted with caution. It is important to consider the effect size, the study design, and the potential for misinterpretation when interpreting p-values.
+
+Here are some additional limitations of p-values:
+
+* P-values can be affected by the sample size. A smaller sample size will lead to a higher p-value, making it more difficult to reject the null hypothesis.
+* P-values can be affected by the number of tests conducted. If multiple tests are conducted, the chance of a false positive result increases. This is known as the multiple comparisons problem.
+* P-values can be affected by the presence of outliers. Outliers can skew the results of a study, making it more difficult to interpret the p-value.
+
+It is important to be aware of the limitations of p-values when interpreting statistical results. P-values should not be used as the sole basis for making decisions. Other factors, such as the effect size and the study design, should also be considered.
