@@ -1,0 +1,45 @@
+Here are 5 examples of statistical testing:
+
+1. **Mean**
+
+The mean is the average of a set of data. It is calculated by adding up all the values in the set and dividing by the number of values. For example, if you have the following set of data:
+
+```
+1, 2, 3, 4, 5
+```
+
+The mean would be 3.
+
+2. **Standard deviation**
+
+The standard deviation is a measure of how spread out a set of data is. It is calculated by taking the square root of the variance. The variance is calculated by taking the average of the squared differences between each value in the set and the mean. For example, if you have the following set of data:
+
+```
+1, 2, 3, 4, 5
+```
+
+The mean is 3, so the variance would be:
+
+```
+(1 - 3)^2 + (2 - 3)^2 + (3 - 3)^2 + (4 - 3)^2 + (5 - 3)^2 = 2
+```
+
+The standard deviation would then be:
+
+```
+sqrt(2) = 1.414
+```
+
+3. **Regression**
+
+Regression is a statistical technique that can be used to predict a dependent variable from one or more independent variables. For example, you could use regression to predict the price of a house based on its square footage and number of bedrooms.
+
+4. **Hypothesis testing**
+
+Hypothesis testing is a statistical technique that can be used to test whether or not two groups are significantly different from each other. For example, you could use hypothesis testing to test whether or not the average height of men is significantly different from the average height of women.
+
+5. **Sample size determination**
+
+Sample size determination is the process of determining how many samples you need to collect in order to get a statistically significant result. The sample size will depend on the size of the population, the desired level of confidence, and the desired margin of error.
+
+These are just a few examples of statistical testing. There are many other statistical tests that can be used for a variety of purposes.
