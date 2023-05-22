@@ -1,0 +1,15 @@
+Confidence intervals have a few weaknesses, including:
+
+* **They are based on assumptions.** Confidence intervals are based on the assumption that the data is normally distributed. If the data is not normally distributed, the confidence interval may not be accurate.
+* **They are not exact.** Confidence intervals are a range of values that are likely to contain the true population mean. However, there is always a chance that the true population mean is outside of the confidence interval.
+* **They can be misleading.** If the confidence interval is wide, it can be difficult to make inferences about the population mean. A wide confidence interval means that there is a lot of uncertainty about the true population mean.
+
+Despite these weaknesses, confidence intervals are a valuable tool for making inferences about populations based on samples. They are used in a wide variety of real-world applications, and can help us to make better decisions.
+
+Here are some additional weaknesses of confidence intervals:
+
+* **They can be sensitive to outliers.** Outliers are data points that are significantly different from the rest of the data. Outliers can widen the confidence interval and make it more difficult to make inferences about the population mean.
+* **They can be affected by the sample size.** The width of the confidence interval is inversely proportional to the square root of the sample size. This means that a larger sample size will result in a narrower confidence interval.
+* **They can be affected by the confidence level.** The confidence level is the probability that the confidence interval will contain the true population mean. A higher confidence level will result in a wider confidence interval.
+
+It is important to be aware of the weaknesses of confidence intervals when using them to make inferences about populations. By understanding these weaknesses, you can use confidence intervals more effectively to make better decisions.
