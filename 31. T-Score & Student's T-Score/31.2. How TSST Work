@@ -1,0 +1,23 @@
+A t-score is a statistical measure that is used to compare the scores of two groups of data. It is calculated by dividing the difference between the means of the two groups by the standard deviation of the combined groups. A t-score can be used to determine whether the difference between the two groups is statistically significant.
+
+Student's t-test is a statistical test that is used to compare the means of two groups of data. It is a parametric test, which means that it assumes that the data is normally distributed. The t-test calculates a t-statistic, which is then compared to a critical value to determine whether the difference between the two means is statistically significant.
+
+The t-test is a versatile statistical test that can be used to compare a variety of different types of data. It is a commonly used test in education, psychology, and other fields.
+
+Here is an example of how a t-test can be used. A researcher wants to compare the scores of two groups of students on a math test. The first group of students received a special tutoring program, while the second group did not. The researcher calculates the t-statistic for the test and finds that it is significant. This means that the difference in the scores of the two groups is not due to chance. The researcher can conclude that the special tutoring program was effective in improving the students' math scores.
+
+Here is a formula for calculating a t-score:
+
+```
+t = (Mean of Group 1 - Mean of Group 2) / (Standard Deviation of Combined Groups)
+```
+
+Here is a formula for calculating the critical value for a t-test:
+
+
+t = (t-table value) * (Standard Deviation of Combined Groups) / (Square Root of the Number of Observations in Group 1 + Square Root of the Number of Observations in Group 2)
+
+
+The t-table value is a value that is found in a t-table. The t-table is a table that lists the critical values for different degrees of freedom and different levels of significance. The degrees of freedom is the number of observations in the combined groups minus 2. The level of significance is the probability of making a Type I error, which is the probability of rejecting the null hypothesis when it is true.
+
+The t-test is a powerful statistical tool that can be used to compare the means of two groups of data. It is a versatile test that can be used to compare a variety of different types of data. The t-test is a commonly used test in education, psychology, and other fields.
