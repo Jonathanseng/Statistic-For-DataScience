@@ -1,0 +1,27 @@
+The formula for a confidence interval is:
+
+```
+CI = x̄ ± zα/2 * σ / √n
+```
+
+where:
+
+* CI = confidence interval
+* x̄ = sample mean
+* zα/2 = z-score for the desired confidence level (e.g., 1.96 for 95% confidence)
+* σ = population standard deviation
+* n = sample size
+
+The confidence interval is a range of values that is likely to contain the true population mean. The width of the confidence interval is determined by the sample size and the standard deviation. A larger sample size will result in a narrower confidence interval, and a smaller standard deviation will also result in a narrower confidence interval.
+
+The confidence limits are the upper and lower bounds of the confidence interval. They are calculated by adding and subtracting the margin of error from the mean. The margin of error is calculated by multiplying the z-score by the standard error of the mean.
+
+The formula for the margin of error is:
+
+```
+ME = zα/2 * σ / √n
+```
+
+The confidence limits can be used to make inferences about the population mean. For example, if the confidence interval for the average height of women is 5'4" to 5'6", we can be 95% confident that the true average height of women is somewhere in that range.
+
+It is important to note that a confidence interval does not prove that the true population mean is within the range. It simply tells us how likely it is that the true population mean is within the range.
