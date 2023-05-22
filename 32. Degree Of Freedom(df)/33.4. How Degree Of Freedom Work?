@@ -1,0 +1,23 @@
+Degrees of freedom (df) is a statistical concept that refers to the number of independent values that can be estimated from a set of data. In other words, it is the number of values that can vary freely after the other values have been determined.
+
+The concept of degrees of freedom is important in a variety of statistical procedures, including hypothesis testing, confidence interval estimation, and regression analysis.
+
+In hypothesis testing, degrees of freedom are used to calculate the p-value, which is a measure of the evidence against the null hypothesis. The lower the p-value, the more evidence there is to reject the null hypothesis.
+
+In confidence interval estimation, degrees of freedom are used to calculate the width of the confidence interval. The wider the confidence interval, the less precise the estimate.
+
+In regression analysis, degrees of freedom are used to calculate the standard errors of the estimated coefficients. The larger the degrees of freedom, the smaller the standard errors, and the more precise the estimates.
+
+The degrees of freedom in a statistical procedure are calculated using a variety of formulas, depending on the specific procedure. In general, the degrees of freedom are equal to the number of observations minus the number of parameters that are estimated.
+
+For example, if you have a sample of 10 observations and you are estimating two parameters, then the degrees of freedom will be 8. This is because you know the total of the 10 observations, and you know the mean of the 10 observations. This leaves 8 degrees of freedom for the individual observations.
+
+The concept of degrees of freedom is an important one in statistics. It helps us to understand the uncertainty in our estimates and to make informed decisions about our data.
+
+Here are some examples of how degrees of freedom work in different statistical tests:
+
+* **t-test:** The degrees of freedom for a t-test are the number of observations minus 2. This is because the t-test is used to compare two means, and the two means use up two degrees of freedom.
+* **F-test:** The degrees of freedom for an F-test are the degrees of freedom of the numerator and the degrees of freedom of the denominator. The degrees of freedom of the numerator are the number of groups minus 1, and the degrees of freedom of the denominator are the total number of observations minus the number of groups.
+* **Chi-squared test:** The degrees of freedom for a chi-squared test are the number of rows minus 1, multiplied by the number of columns minus 1. This is because the chi-squared test is used to compare two distributions, and the two distributions use up two degrees of freedom.
+
+Degrees of freedom are an important concept in statistics. They help us to understand the uncertainty in our estimates and to make informed decisions about our data.
