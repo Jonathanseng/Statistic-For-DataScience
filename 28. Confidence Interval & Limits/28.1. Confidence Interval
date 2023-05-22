@@ -1,1 +1,16 @@
+A confidence interval is a range of values that is likely to contain the true value of a population parameter. The confidence level is the probability that the confidence interval contains the true value. For example, a 95% confidence interval means that there is a 95% probability that the true value lies within the interval.
 
+Confidence limits are the upper and lower bounds of a confidence interval. They are calculated using the sample statistic, the standard error of the statistic, and the confidence level. For example, if the sample mean is 10, the standard error of the mean is 2, and the confidence level is 95%, then the confidence limits are 8 and 12.
+
+Confidence intervals are used to estimate population parameters from sample data. They are a more accurate way to estimate parameters than point estimates, which are single values that are used to estimate parameters. For example, a point estimate of the population mean is the sample mean. However, the sample mean may not be the true value of the population mean. A confidence interval, on the other hand, provides a range of values that is likely to contain the true value of the population mean.
+
+Confidence intervals can be used to make decisions about population parameters. For example, a pharmaceutical company may want to know if a new drug is effective in treating a disease. The company could conduct a clinical trial to collect data on the effectiveness of the drug. The company could then use the confidence interval to determine if the drug is effective. If the confidence interval does not include the value 0, then the drug is effective.
+
+Confidence intervals are a powerful tool for estimating population parameters. They are more accurate than point estimates and can be used to make decisions about population parameters.
+
+Here are some additional details about confidence intervals:
+
+* The confidence level is the probability that the confidence interval contains the true value of the population parameter. The most common confidence levels are 90%, 95%, and 99%.
+* The confidence interval is calculated using the sample statistic, the standard error of the statistic, and the confidence level.
+* The confidence interval can be used to make decisions about population parameters.
+* Confidence intervals are a powerful tool for estimating population parameters. They are more accurate than point estimates and can be used to make decisions about population parameters.
