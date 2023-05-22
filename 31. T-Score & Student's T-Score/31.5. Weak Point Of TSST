@@ -1,0 +1,7 @@
+T-scores and Student's t-tests have a few weaknesses, including:
+
+* **Assumptions:** T-scores and Student's t-tests make a number of assumptions about the data, such as that the data is normally distributed and that the variances of the two groups are equal. If these assumptions are not met, the results of the t-test may be inaccurate.
+* **Power:** T-scores and Student's t-tests have limited power to detect differences between groups when the sample sizes are small. This means that even if there is a real difference between the groups, the t-test may not be able to detect it.
+* **Interpretation:** T-scores and Student's t-tests can be difficult to interpret, especially for non-statisticians. It is important to understand the assumptions of the t-test and to interpret the results carefully.
+
+Despite these weaknesses, T-scores and Student's t-tests are powerful tools that can be used to analyze data in a variety of settings. It is important to be aware of the weaknesses of these tools and to use them carefully.
