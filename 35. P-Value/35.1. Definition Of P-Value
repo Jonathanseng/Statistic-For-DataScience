@@ -1,0 +1,25 @@
+
+In statistics, a p-value is the probability of obtaining a result at least as extreme as the one observed, assuming that the null hypothesis is true. The null hypothesis is a statement of no difference between two groups or no relationship between two variables. A p-value of less than 0.05 is generally considered to be statistically significant, which means that there is a less than 5% chance that the results could have occurred by chance.
+
+For example, a scientist might be interested in whether a new drug is effective in treating a disease. The scientist would conduct a study to compare the results of the new drug to a placebo. The null hypothesis would be that the new drug is no more effective than the placebo. If the p-value is less than 0.05, the scientist would reject the null hypothesis and conclude that the new drug is effective in treating the disease.
+
+It is important to note that a p-value does not prove that the null hypothesis is false. It simply means that the results are unlikely to have occurred by chance. A p-value can be misleading if the study is poorly designed or if the sample size is too small.
+
+Here are some additional things to keep in mind about p-values:
+
+* P-values are not the only factor to consider when interpreting the results of a study. Other factors, such as the effect size and the clinical significance of the results, should also be considered.
+* P-values can be misleading if the study is poorly designed or if the sample size is too small.
+* P-values are not a measure of the size of the effect. A p-value of 0.05 can be obtained for a very small effect, or for a very large effect.
+* P-values can be affected by the choice of statistical test.
+
+Overall, p-values are a useful tool for interpreting the results of statistical studies. However, it is important to remember that they are not the only factor to consider, and that they can be misleading in some cases.
+
+Here are some examples of p-values and what they mean:
+
+* A p-value of 0.05 means that there is a 5% chance that the results could have occurred by chance.
+* A p-value of 0.01 means that there is a 1% chance that the results could have occurred by chance.
+* A p-value of 0.001 means that there is a 0.1% chance that the results could have occurred by chance.
+
+P-values are often used to make decisions about whether to reject the null hypothesis. If the p-value is less than a certain threshold, such as 0.05, then the null hypothesis is rejected and the alternative hypothesis is accepted.
+
+It is important to note that p-values are not the only factor to consider when making decisions about statistical significance. Other factors, such as the effect size and the clinical significance of the results, should also be considered.
