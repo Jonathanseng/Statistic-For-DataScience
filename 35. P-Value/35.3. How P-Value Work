@@ -1,0 +1,16 @@
+P-value is a statistical measure that is used to determine the probability of obtaining a particular result by chance. It is calculated by comparing the observed results of a study to the results that would be expected if there was no real difference between the groups being studied.
+
+P-values are typically expressed as a number between 0 and 1. A p-value of 0.05 or less is generally considered to be statistically significant, which means that there is a less than 5% chance that the results could have occurred by chance.
+
+For example, a scientist might be interested in whether a new drug is effective in treating a disease. The scientist would conduct a study to compare the results of the new drug to a placebo. The null hypothesis would be that the new drug is no more effective than the placebo. If the p-value is less than 0.05, the scientist would reject the null hypothesis and conclude that the new drug is effective in treating the disease.
+
+It is important to note that a p-value does not prove that the null hypothesis is false. It simply means that the results are unlikely to have occurred by chance. A p-value can be misleading if the study is poorly designed or if the sample size is too small.
+
+Here are some additional things to keep in mind about p-values:
+
+* P-values are not the only factor to consider when interpreting the results of a study. Other factors, such as the effect size and the clinical significance of the results, should also be considered.
+* P-values can be misleading if the study is poorly designed or if the sample size is too small.
+* P-values are not a measure of the size of the effect. A p-value of 0.05 can be obtained for a very small effect, or for a very large effect.
+* P-values can be affected by the choice of statistical test.
+
+Overall, p-values are a useful tool for interpreting the results of statistical studies. However, it is important to remember that they are not the only factor to consider, and that they can be misleading in some cases.
