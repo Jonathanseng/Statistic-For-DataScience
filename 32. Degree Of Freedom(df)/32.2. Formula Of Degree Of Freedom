@@ -1,0 +1,22 @@
+The formula for degree of freedom (df) is:
+
+```
+df = n - 1
+```
+
+Where n is the number of observations.
+
+For example, if you have 10 observations, then your degree of freedom is 9.
+
+Degree of freedom is a measure of the number of independent variables that can be estimated in a statistical analysis. This means that the more degrees of freedom there are, the more precise the estimates will be. However, too many degrees of freedom can lead to overfitting, which is when the model fits the data too closely and does not generalize well to new data.
+
+Here are some examples of how to calculate degree of freedom:
+
+* **One-sample t-test:** df = n - 1
+* **Two-sample t-test:** df = (n1 - 1) + (n2 - 1)
+* **ANOVA:** df = (k - 1) * (n - 1)
+* **Regression:** df = n - (p + 1)
+
+Where k is the number of groups, n is the number of observations, and p is the number of predictors.
+
+Degree of freedom is an important concept in statistics. By understanding degree of freedom, you can better understand the results of statistical analyses.
