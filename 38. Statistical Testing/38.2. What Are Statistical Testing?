@@ -1,0 +1,34 @@
+There are two main types of statistical tests: parametric and non-parametric.
+
+**Parametric tests** make certain assumptions about the data, such as that the data is normally distributed. Parametric tests are more powerful than non-parametric tests, but they can be more sensitive to violations of assumptions. Some common parametric tests include:
+
+* **T-tests** are used to compare the means of two groups.
+* **ANOVA** (analysis of variance) is used to compare the means of three or more groups.
+* **Regression** is used to predict the value of one variable from the value of another variable.
+
+**Non-parametric tests** do not make any assumptions about the data. Non-parametric tests are less powerful than parametric tests, but they are more robust to violations of assumptions. Some common non-parametric tests include:
+
+* **Chi-squared test** is used to compare two categorical variables.
+* **Wilcoxon signed-rank test** is used to compare the medians of two groups.
+* **Kruskal-Wallis test** is used to compare the medians of three or more groups.
+
+The choice of which statistical test to use depends on the type of data that is available and the research question that is being asked.
+
+Here are some additional details about each type of test:
+
+**Parametric tests**
+
+* **Assumptions:** Parametric tests make certain assumptions about the data, such as that the data is normally distributed. If the data does not meet these assumptions, the results of the test may be unreliable.
+* **Power:** Parametric tests are more powerful than non-parametric tests. This means that they are more likely to detect a difference between groups, even if the difference is small.
+* **Robustness:** Parametric tests are less robust to violations of assumptions than non-parametric tests. This means that they are more likely to be affected by outliers and other data that does not fit the assumptions of the test.
+
+**Non-parametric tests**
+
+* **Assumptions:** Non-parametric tests do not make any assumptions about the data. This makes them more robust to violations of assumptions than parametric tests.
+* **Power:** Non-parametric tests are less powerful than parametric tests. This means that they are less likely to detect a difference between groups, even if the difference is large.
+* **Robustness:** Non-parametric tests are more robust to violations of assumptions than parametric tests. This makes them a good choice when the data does not meet the assumptions of a parametric test.
+
+Here are some examples of when to use each type of test:
+
+* **Parametric tests:** Use parametric tests when the data is normally distributed and you want to have a high degree of power to detect a difference between groups.
+* **Non-parametric tests:** Use non-parametric tests when the data is not normally distributed or when you want to be more robust to violations of assumptions.
