@@ -1,0 +1,29 @@
+The formula for a T-score is:
+
+```
+t = (x - μ) / s / √n
+```
+
+where:
+
+* t is the T-score
+* x is the individual score
+* μ is the population mean
+* s is the population standard deviation
+* n is the sample size
+
+The formula for Student's t-score is the same, except that the population mean and standard deviation are replaced with the sample mean and standard deviation:
+
+```
+t = (x - x̄) / s / √n
+```
+
+where:
+
+* t is the Student's t-score
+* x is the individual score
+* x̄ is the sample mean
+* s is the sample standard deviation
+* n is the sample size
+
+T-scores and Student's t-scores are both measures of how far away an individual score is from the mean in terms of standard deviations. T-scores are typically used when the population mean and standard deviation are unknown, while Student's t-scores are used when the population mean and standard deviation are known.
