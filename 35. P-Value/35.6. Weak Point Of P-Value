@@ -1,0 +1,18 @@
+P-values are a measure of the probability of obtaining a result at least as extreme as the one observed, given that the null hypothesis is true. A low p-value (typically <0.05) is often interpreted as evidence against the null hypothesis and in favor of the alternative hypothesis.
+
+However, p-values have a number of weaknesses, including:
+
+* They are sensitive to sample size. A small change in sample size can lead to a large change in p-value.
+* They do not take into account the size of the effect. A small p-value can be obtained for a very small effect size.
+* They are not informative about the size of the effect. A low p-value does not tell us how big the effect is.
+* They can be misleading when the null hypothesis is false. A low p-value can be obtained even when the null hypothesis is true, simply due to chance.
+
+Because of these weaknesses, p-values should not be used in isolation to make decisions about the significance of a result. Instead, they should be interpreted in the context of other factors, such as the size of the effect, the prior probability of the alternative hypothesis, and the potential for bias in the study.
+
+Here are some additional examples of the weak points of p-values:
+
+* P-values can be misleading when there is a lack of statistical power. Statistical power is the probability of detecting a real effect, given the size of the effect and the sample size. If a study has low statistical power, it is possible to obtain a non-significant result even when the null hypothesis is false.
+* P-values can be misleading when there is publication bias. Publication bias is the tendency for studies with statistically significant results to be more likely to be published than studies with non-significant results. This can lead to an overestimate of the true effect size.
+* P-values can be misleading when there is researcher degrees of freedom. Researcher degrees of freedom are the choices that researchers make about how to conduct a study, such as how to select the participants, how to measure the variables, and how to analyze the data. These choices can influence the results of the study, and can make it difficult to interpret the p-value.
+
+Overall, p-values are a useful tool for statistical analysis, but they should be interpreted with caution.
