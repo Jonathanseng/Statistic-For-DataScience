@@ -1,0 +1,44 @@
+The formula for the Mann-Whitney U test is:
+
+```
+U = n₁(n₁ + 1)/2 - R₁
+```
+
+where:
+
+* n₁ is the size of the first sample
+* n₂ is the size of the second sample
+* R₁ is the sum of the ranks for the first sample
+
+The formula for the Wilcoxon signed-rank test is:
+
+```
+W = W₁ - W₂
+```
+
+where:
+
+* W₁ is the sum of the positive ranks for the first sample
+* W₂ is the sum of the negative ranks for the first sample
+
+The formula for the Kruskal-Wallis test is:
+
+```
+H = 12∑R²/(n(n + 1))
+```
+
+where:
+
+* R is the sum of the ranks for each group
+* n is the number of groups
+
+The formula for the Friedman test is:
+
+```
+χ² = 12∑R²/(n(n + 1)(2n + 1))
+```
+
+where:
+
+* R is the sum of the ranks for each group
+* n is the number of groups
