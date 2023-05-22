@@ -1,0 +1,15 @@
+P-values are a measure of the probability of obtaining a result at least as extreme as the one observed, given that the null hypothesis is true. A low p-value (typically <0.05) is often interpreted as evidence against the null hypothesis and in favor of the alternative hypothesis.
+
+P-values have a number of strengths, including:
+
+* They are a simple and intuitive way to measure the statistical significance of a result.
+* They are widely used in scientific research, which makes it easy to compare results from different studies.
+* They can be used to make decisions about whether to reject the null hypothesis and in favor of the alternative hypothesis.
+
+Here are some additional examples of the strong points of p-values:
+
+* P-values can be used to quantify the evidence against the null hypothesis. A lower p-value indicates stronger evidence against the null hypothesis.
+* P-values can be used to make decisions about whether to reject the null hypothesis. A p-value of less than 0.05 is typically considered to be statistically significant, which means that there is less than a 5% chance that the results could have occurred by chance.
+* P-values can be used to compare the results of different studies. A study with a lower p-value is generally considered to provide stronger evidence against the null hypothesis.
+
+Overall, p-values are a useful tool for statistical analysis. They are simple to understand, widely used, and can be used to make decisions about the significance of a result. However, p-values should be interpreted with caution, as they have a number of weaknesses.
