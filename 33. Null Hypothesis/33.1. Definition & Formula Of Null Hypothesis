@@ -1,0 +1,30 @@
+
+In statistics, the null hypothesis (H0) is the claim that there is no difference between two sets of data or variables being analyzed. The null hypothesis is that any experimentally observed difference is due to chance alone, and an underlying causative relationship does not exist, hence the term "null". In other words, the null hypothesis is the statement that there is no effect.
+
+The alternative hypothesis (H1) is the claim that there is a difference between the two sets of data or variables being analyzed. The alternative hypothesis is that there is an underlying causative relationship between the two variables.
+
+The null hypothesis is always stated in the negative, while the alternative hypothesis is always stated in the positive. For example, a null hypothesis might be "There is no difference in the average height of men and women," while the alternative hypothesis might be "There is a difference in the average height of men and women."
+
+To test a hypothesis, a researcher will collect data and then use a statistical test to determine whether the data supports the null hypothesis or the alternative hypothesis. If the data does not support the null hypothesis, then the researcher can reject the null hypothesis and conclude that the alternative hypothesis is true.
+
+For example, a researcher might collect data on the average height of men and women. If the data shows that the average height of men is significantly different from the average height of women, then the researcher can reject the null hypothesis and conclude that there is a difference in the average height of men and women.
+
+It is important to note that the null hypothesis can never be proven true. The null hypothesis can only be rejected or not rejected. If the null hypothesis is not rejected, then this does not mean that the null hypothesis is true. It simply means that the data does not provide enough evidence to reject the null hypothesis.
+
+The null hypothesis is denoted by H0 and is usually stated as "there is no difference." For example, if you are testing whether a new drug is effective, the null hypothesis would be that there is no difference in the effectiveness of the new drug and a placebo. The formula for the null hypothesis is:
+
+```
+H0: µ1 = µ2
+```
+
+where µ1 is the mean of the population for the new drug and µ2 is the mean of the population for the placebo.
+
+The alternative hypothesis is denoted by H1 and is the statement that there is a difference. In the example of the new drug, the alternative hypothesis would be that the new drug is more effective than the placebo. The formula for the alternative hypothesis is:
+
+```
+H1: µ1 ≠ µ2
+```
+
+In hypothesis testing, we are trying to determine whether the null hypothesis is true or false. If the results of the study are statistically significant, then we can reject the null hypothesis and conclude that there is a difference between the two groups. However, if the results of the study are not statistically significant, then we cannot reject the null hypothesis and cannot conclude that there is a difference between the two groups.
+
+It is important to note that the null hypothesis is never proven. We can only reject it or fail to reject it. If we fail to reject the null hypothesis, this does not mean that the null hypothesis is true. It simply means that we do not have enough evidence to reject it.
