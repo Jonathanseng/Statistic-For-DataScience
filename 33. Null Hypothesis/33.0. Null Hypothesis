@@ -1,0 +1,11 @@
+A null hypothesis is a statement that there is no difference between two groups or variables. It is typically denoted as H0. The alternative hypothesis is the statement that there is a difference between the two groups or variables. It is typically denoted as H1.
+
+In statistical hypothesis testing, the null hypothesis is the hypothesis that is being tested. The alternative hypothesis is the hypothesis that is being rejected if the null hypothesis is not supported by the data.
+
+The null hypothesis is typically stated in the negative, such as "there is no difference between the means of the two groups." The alternative hypothesis is typically stated in the positive, such as "there is a difference between the means of the two groups."
+
+For example, a researcher might be interested in whether there is a difference in the average height of men and women. The null hypothesis would be that there is no difference in the average height of men and women. The alternative hypothesis would be that there is a difference in the average height of men and women.
+
+The null hypothesis is always tested first. If the null hypothesis is not rejected, then there is not enough evidence to support the alternative hypothesis. If the null hypothesis is rejected, then there is evidence to support the alternative hypothesis.
+
+The null hypothesis is an important part of statistical hypothesis testing. It allows researchers to test their hypotheses and to make inferences about the population.
