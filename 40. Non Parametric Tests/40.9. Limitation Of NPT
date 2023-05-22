@@ -1,0 +1,16 @@
+Nonparametric tests are a type of statistical test that does not make any assumptions about the distribution of the data. This makes them a good choice for data that is not normally distributed or when the sample size is small. However, nonparametric tests also have some limitations.
+
+One limitation of nonparametric tests is that they are less powerful than parametric tests. This means that they are less likely to detect a statistically significant difference between groups, even if there is a real difference. Another limitation of nonparametric tests is that they can be less precise than parametric tests. This means that they may not be able to provide as accurate an estimate of the size of the difference between groups.
+
+Finally, nonparametric tests can be more difficult to interpret than parametric tests. This is because they do not provide as much information about the data. For example, a nonparametric test may only tell you whether there is a statistically significant difference between groups, but it will not tell you how big the difference is.
+
+Overall, nonparametric tests are a valuable tool for data analysis. However, it is important to be aware of their limitations before using them.
+
+Here are some of the specific limitations of nonparametric tests:
+
+* They are less powerful than parametric tests.
+* They can be less precise than parametric tests.
+* They can be more difficult to interpret than parametric tests.
+* They may not be appropriate for all types of data.
+
+It is important to weigh the limitations of nonparametric tests against their advantages before deciding whether to use them.
