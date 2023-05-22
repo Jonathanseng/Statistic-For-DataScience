@@ -1,0 +1,18 @@
+The formula for p-value is:
+
+```
+p-value = P(test statistic at least as extreme as observed value | null hypothesis is true)
+```
+
+where:
+
+* P( ) is the probability of an event
+* test statistic is a number that summarizes the results of a statistical test
+* observed value is the value of the test statistic that was actually observed
+* null hypothesis is a statement of no difference between two groups or no relationship between two variables
+
+The p-value can be calculated using a variety of statistical methods, depending on the type of test being conducted. For example, the p-value for a t-test can be calculated using the t-distribution, while the p-value for a chi-squared test can be calculated using the chi-squared distribution.
+
+P-values are often used to make decisions about whether to reject the null hypothesis. If the p-value is less than a certain threshold, such as 0.05, then the null hypothesis is rejected and the alternative hypothesis is accepted.
+
+It is important to note that p-values are not the only factor to consider when making decisions about statistical significance. Other factors, such as the effect size and the clinical significance of the results, should also be considered.
