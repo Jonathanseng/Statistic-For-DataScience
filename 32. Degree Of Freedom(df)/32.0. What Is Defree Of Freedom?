@@ -1,0 +1,13 @@
+In statistics, degrees of freedom (DF) is the number of independent values that can vary in a statistical analysis without breaking any constraints. 
+
+For example, if you have a sample of 10 data points and you are trying to fit a line to the data, you have 9 degrees of freedom. This is because once you have chosen 9 of the data points, the 10th data point is determined by the line you have fit.
+
+Degrees of freedom are important in statistics because they affect the accuracy of your estimates. With more degrees of freedom, your estimates will be more accurate. With fewer degrees of freedom, your estimates will be less accurate.
+
+Here are some examples of how degrees of freedom are used in statistics:
+
+* In hypothesis testing, degrees of freedom are used to calculate the p-value. The p-value is a measure of the probability of getting the results you observed if the null hypothesis is true.
+* In confidence intervals, degrees of freedom are used to calculate the width of the interval. The width of the confidence interval is a measure of how confident you can be that the interval contains the true value of the parameter you are estimating.
+* In linear regression, degrees of freedom are used to calculate the standard error of the estimate. The standard error of the estimate is a measure of how accurate your estimates are.
+
+Degrees of freedom are a fundamental concept in statistics. They are used in a variety of statistical procedures and they affect the accuracy of your estimates.
