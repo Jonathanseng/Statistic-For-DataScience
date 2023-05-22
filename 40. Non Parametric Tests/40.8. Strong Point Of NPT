@@ -1,0 +1,25 @@
+Nonparametric tests are a type of statistical test that does not make any assumptions about the underlying distribution of the data. This makes them a good choice for situations where the data may not be normally distributed, or where the researcher does not know the distribution of the data.
+
+Some of the strong points of nonparametric tests include:
+
+* They are relatively easy to understand and use.
+* They are not as sensitive to outliers as parametric tests.
+* They can be used with data that is not normally distributed.
+* They can be used with small sample sizes.
+
+However, nonparametric tests also have some limitations, including:
+
+* They may not be as powerful as parametric tests.
+* They may not be as versatile as parametric tests.
+* They may not be as well-known as parametric tests.
+
+Overall, nonparametric tests are a valuable tool for researchers who need to analyze data that may not be normally distributed. They are relatively easy to use and understand, and they can be used with small sample sizes. However, it is important to be aware of the limitations of nonparametric tests before using them.
+
+Here are some examples of nonparametric tests:
+
+* The Mann-Whitney U test is used to compare two independent groups.
+* The Wilcoxon signed-rank test is used to compare two dependent groups.
+* The Kruskal-Wallis test is used to compare more than two independent groups.
+* The Friedman test is used to compare more than two dependent groups.
+
+These are just a few examples of the many nonparametric tests that are available. The best test to use in a particular situation will depend on the specific research question and the characteristics of the data.
