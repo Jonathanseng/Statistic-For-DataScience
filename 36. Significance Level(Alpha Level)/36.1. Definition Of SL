@@ -1,0 +1,34 @@
+The significance level, also known as alpha or α, is the probability of rejecting the null hypothesis when it is true. It is typically set at 0.05, which means that there is a 5% chance of rejecting the null hypothesis when it is actually true.
+
+A significance level is used in hypothesis testing to determine whether the results of a statistical test are statistically significant. A statistically significant result means that the results are unlikely to have occurred by chance. A non-statistically significant result means that the results could have occurred by chance.
+
+The significance level is important because it helps researchers to control the risk of making a Type I error. A Type I error occurs when a researcher rejects the null hypothesis when it is actually true. This can lead to false positive results, which can have serious consequences.
+
+For example, a researcher might conduct a study to test the effectiveness of a new drug. If the researcher rejects the null hypothesis and concludes that the drug is effective, but the drug is actually not effective, this could lead to people taking a drug that is not helpful and could even be harmful.
+
+By setting a significance level, researchers can help to reduce the risk of making a Type I error. However, it is important to note that no significance level can completely eliminate the risk of a Type I error.
+
+Here are some additional details about significance levels:
+
+* The significance level is typically set before the data is collected.
+* The significance level is used to determine whether the results of a statistical test are statistically significant.
+* A statistically significant result means that the results are unlikely to have occurred by chance.
+* A non-statistically significant result means that the results could have occurred by chance.
+
+The significance level is an important concept in statistical hypothesis testing. By understanding the significance level, researchers can help to reduce the risk of making a Type I error and ensure that their results are reliable.
+
+Here are some examples of significance levels:
+
+* A significance level of 0.05 means that there is a 5% chance of rejecting the null hypothesis when it is actually true.
+* A significance level of 0.01 means that there is a 1% chance of rejecting the null hypothesis when it is actually true.
+* A significance level of 0.10 means that there is a 10% chance of rejecting the null hypothesis when it is actually true.
+
+The choice of significance level is up to the researcher. However, it is important to note that a lower significance level means that there is less risk of making a Type I error. However, it also means that there is less chance of detecting a real difference.
+
+Here are some tips for choosing a significance level:
+
+* Consider the consequences of making a Type I error.
+* Consider the power of the statistical test.
+* Consider the cost of conducting the study.
+
+By following these tips, researchers can choose a significance level that is appropriate for their study.
