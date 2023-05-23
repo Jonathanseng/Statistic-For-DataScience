@@ -1,0 +1,18 @@
+
+A type II error is a statistical error that occurs when a researcher fails to reject the null hypothesis when it is actually false. This means that the researcher concludes that there is no difference between two groups when in reality there is. Type II errors are also known as false negatives.
+
+The probability of making a type II error is known as beta (β). Beta is inversely related to the statistical power of the study. Statistical power is the ability of a study to detect a difference between two groups. A study with high statistical power is less likely to make a type II error.
+
+There are a number of factors that can contribute to type II errors, including:
+
+* A small sample size: A smaller sample size makes it more difficult to detect a difference between two groups.
+* Low statistical power: Statistical power is the ability of a study to detect a difference between two groups. A study with low statistical power is more likely to make a type II error.
+* A high significance level: The significance level is the probability of making a type I error. A higher significance level makes it more likely that a researcher will reject the null hypothesis even when it is true.
+
+There are a number of things that researchers can do to reduce the risk of making a type II error, including:
+
+* Increasing the sample size: A larger sample size makes it more likely that a researcher will be able to detect a difference between two groups.
+* Increasing the statistical power: Statistical power can be increased by using a more sensitive statistical test or by increasing the sample size.
+* Reducing the significance level: A lower significance level makes it less likely that a researcher will reject the null hypothesis when it is true.
+
+It is important to note that there is no way to completely eliminate the risk of making a type II error. However, by taking steps to reduce the risk of making a type II error, researchers can increase the accuracy of their results.
