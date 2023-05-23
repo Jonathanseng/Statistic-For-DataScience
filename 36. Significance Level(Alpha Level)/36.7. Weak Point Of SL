@@ -1,0 +1,11 @@
+The significance level, also known as alpha level or Type I error rate, is the probability of incorrectly rejecting the null hypothesis. It is typically set at 0.05, which means that there is a 5% chance of rejecting the null hypothesis when it is actually true.
+
+The significance level is important because it helps researchers to control the risk of making a Type I error. A Type I error occurs when a researcher rejects the null hypothesis when it is actually true. This can lead to false positive results, which can have serious consequences.
+
+However, the significance level also has some weak points. One weak point is that it can be too low. If the significance level is too low, it can make it difficult to reject the null hypothesis even when there is a real difference between the groups being compared. This can lead to a Type II error, which occurs when a researcher fails to reject the null hypothesis when it is actually false.
+
+Another weak point of the significance level is that it is arbitrary. There is no scientific reason to choose a significance level of 0.05 instead of 0.01 or 0.10. The choice of significance level is often based on tradition or convenience.
+
+Finally, the significance level does not take into account the size of the effect. A statistically significant result does not necessarily mean that the effect is large or important. The researcher must also consider the size of the effect and the practical significance of the results before drawing any conclusions.
+
+Overall, the significance level is a useful tool for researchers, but it is important to be aware of its weak points. Researchers should use the significance level in conjunction with other factors, such as the size of the effect and the practical significance of the results, to make informed decisions about their research.
