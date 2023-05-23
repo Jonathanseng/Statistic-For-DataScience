@@ -1,0 +1,20 @@
+Significance level (also known as alpha level) is the probability of rejecting the null hypothesis when it is actually true. It is typically set at 0.05, which means that there is a 5% chance of rejecting the null hypothesis when it is actually true.
+
+Significance level is used in hypothesis testing to determine whether the results of a statistical test are statistically significant. A statistically significant result means that the results are unlikely to have occurred by chance. A non-statistically significant result means that the results could have occurred by chance.
+
+The significance level is important because it helps researchers to control the risk of making a Type I error. A Type I error occurs when a researcher rejects the null hypothesis when it is actually true. This can lead to false positive results, which can have serious consequences.
+
+For example, a researcher might conduct a study to test the effectiveness of a new drug. If the researcher rejects the null hypothesis and concludes that the drug is effective, but the drug is actually not effective, this could lead to people taking a drug that is not helpful and could even be harmful.
+
+By setting a significance level, researchers can help to reduce the risk of making a Type I error. However, it is important to note that no significance level can completely eliminate the risk of a Type I error.
+
+Here are some use cases of significance level:
+
+* In medical research, significance level is used to determine whether a new drug is effective.
+* In marketing research, significance level is used to determine whether a new advertising campaign is effective.
+* In education research, significance level is used to determine whether a new teaching method is effective.
+* In business research, significance level is used to determine whether a new marketing strategy is effective.
+
+In all of these cases, significance level is used to help researchers make decisions about whether to accept or reject the null hypothesis. If the results are statistically significant, the researcher can conclude that there is evidence to support the alternative hypothesis. If the results are not statistically significant, the researcher cannot conclude that there is evidence to support the alternative hypothesis.
+
+It is important to note that significance level is just one factor that researchers should consider when making decisions about whether to accept or reject the null hypothesis. Researchers should also consider the size of the effect and the practical significance of the results.
