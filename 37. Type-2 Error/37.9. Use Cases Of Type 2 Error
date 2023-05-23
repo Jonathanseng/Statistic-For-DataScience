@@ -1,0 +1,13 @@
+Type II errors are common in statistical hypothesis testing. They occur when the null hypothesis is not rejected, even though it is actually false. This can lead to a number of problems, including:
+
+* Missing important information: A type II error can lead to the researcher missing important information about the population. This can happen if the sample size is too small or if the test is not sensitive enough to detect the effects of the independent variable.
+* Making incorrect decisions: A type II error can lead to the researcher making incorrect decisions about the population. For example, a researcher might decide that a new drug is not effective, even though it actually is. This can lead to people not receiving the treatment they need.
+* Increasing the risk of bias: A type II error can increase the risk of bias in a study. This is because the researcher might be more likely to report results that support their hypothesis, even if the results are not statistically significant.
+
+There are a number of ways to reduce the risk of type II errors, including:
+
+* Increasing the sample size: A larger sample size will make it more likely that the researcher will be able to detect the effects of the independent variable.
+* Using a more sensitive test: A more sensitive test will be more likely to detect the effects of the independent variable, even if the effects are small.
+* Using a power analysis: A power analysis can help the researcher to determine the sample size they need to reduce the risk of type II errors.
+
+It is important to note that type II errors are unavoidable. However, by taking steps to reduce the risk of type II errors, researchers can improve the accuracy of their results.
