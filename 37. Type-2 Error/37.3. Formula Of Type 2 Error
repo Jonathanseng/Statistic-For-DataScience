@@ -1,0 +1,24 @@
+The formula for Type II error is:
+
+```
+beta = 1 - power
+```
+
+Where:
+
+* **beta** is the probability of a Type II error
+* **power** is the probability of correctly rejecting a false null hypothesis
+
+The power of a statistical test is determined by the sample size, the effect size, and the significance level. The sample size is the number of observations in the study. The effect size is the size of the difference between the two groups being compared. The significance level is the probability of rejecting the null hypothesis when it is actually true.
+
+A Type II error can be reduced by increasing the sample size, increasing the effect size, or decreasing the significance level. However, increasing the sample size or the effect size can make the study more expensive and time-consuming. Decreasing the significance level can make it more difficult to reject the null hypothesis even when it is false.
+
+Here are some examples of Type II errors:
+
+* A doctor diagnoses a patient with a disease when they do not actually have it.
+* A study finds that a new drug is not effective when it actually is.
+* A company invests in a new product that fails to be profitable.
+
+Type II errors can have serious consequences. In the medical field, a Type II error can lead to a patient not receiving the treatment they need. In the business world, a Type II error can lead to a company wasting money on a product that will not be successful.
+
+It is important to be aware of the possibility of Type II errors when conducting statistical tests. By understanding the factors that can lead to Type II errors, researchers can take steps to reduce their occurrence.
