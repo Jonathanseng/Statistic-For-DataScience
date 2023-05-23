@@ -1,0 +1,27 @@
+A type II error occurs when a researcher fails to reject the null hypothesis when it is actually false. This means that the researcher concludes that there is no difference between two groups when in reality there is. Type II errors are also known as false negatives.
+
+There are a number of factors that can contribute to type II errors, including:
+
+* A small sample size: A smaller sample size makes it more difficult to detect a difference between two groups.
+* Low statistical power: Statistical power is the ability of a study to detect a difference between two groups. A study with low statistical power is more likely to make a type II error.
+* A high significance level: The significance level is the probability of making a type I error. A higher significance level makes it more likely that a researcher will reject the null hypothesis even when it is true.
+
+There are a number of things that researchers can do to reduce the risk of making a type II error, including:
+
+* Increasing the sample size: A larger sample size makes it more likely that a researcher will be able to detect a difference between two groups.
+* Increasing the statistical power: Statistical power can be increased by using a more sensitive statistical test or by increasing the sample size.
+* Reducing the significance level: A lower significance level makes it less likely that a researcher will reject the null hypothesis when it is true.
+
+It is important to note that there is no way to completely eliminate the risk of making a type II error. However, by taking steps to reduce the risk of making a type II error, researchers can increase the accuracy of their results.
+
+Here is an example of how a type II error can occur:
+
+A researcher is interested in whether a new drug is effective in treating a particular disease. The researcher conducts a study in which they randomly assign patients to either the new drug or a placebo. The researcher then measures the patients' symptoms at the end of the study.
+
+The results of the study show that there is no significant difference in the symptoms of the patients who took the new drug and the patients who took the placebo. The researcher concludes that the new drug is not effective in treating the disease.
+
+However, it is possible that the new drug is actually effective in treating the disease, but the study was not able to detect a difference because the sample size was too small or the effect size was too small. In this case, the researcher has made a type II error.
+
+Type II errors can have serious consequences. In the medical field, a type II error can lead to a patient not receiving the treatment they need. In the business world, a type II error can lead to a company wasting money on a product that will not be successful.
+
+It is important to be aware of the possibility of type II errors when conducting statistical tests. By understanding the factors that can lead to type II errors, researchers can take steps to reduce their occurrence.
