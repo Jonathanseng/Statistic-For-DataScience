@@ -1,0 +1,16 @@
+In statistical hypothesis testing, the significance level, also known as alpha level or Type I error rate, is the probability of incorrectly rejecting the null hypothesis. It is typically set at 0.05, which means that there is a 5% chance of rejecting the null hypothesis when it is actually true.
+
+The significance level is important because it helps researchers to control the risk of making a Type I error. A Type I error occurs when a researcher rejects the null hypothesis when it is actually true. This can lead to false positive results, which can have serious consequences.
+
+For example, a researcher might conduct a study to test the effectiveness of a new drug. If the researcher rejects the null hypothesis and concludes that the drug is effective, but the drug is actually not effective, this could lead to people taking a drug that is not helpful and could even be harmful.
+
+By setting a significance level, researchers can help to reduce the risk of making a Type I error. However, it is important to note that no significance level can completely eliminate the risk of a Type I error.
+
+Here are some additional details about significance levels:
+
+* The significance level is typically set before the data is collected.
+* The significance level is used to determine whether the results of a statistical test are statistically significant.
+* A statistically significant result means that the results are unlikely to have occurred by chance.
+* A non-statistically significant result means that the results could have occurred by chance.
+
+The significance level is an important concept in statistical hypothesis testing. By understanding the significance level, researchers can help to reduce the risk of making a Type I error and ensure that their results are reliable.
