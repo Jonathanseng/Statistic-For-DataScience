@@ -1,0 +1,16 @@
+The formula for significance level (alpha level) is:
+
+```
+α = 1 - confidence level
+```
+
+where:
+
+* α is the significance level
+* confidence level is the probability that the null hypothesis is true
+
+For example, if the confidence level is 95%, then the significance level is 5%. This means that there is a 5% chance of rejecting the null hypothesis when it is actually true.
+
+The significance level is typically set before the data is collected. It is used to determine whether the results of a statistical test are statistically significant. A statistically significant result means that the results are unlikely to have occurred by chance. A non-statistically significant result means that the results could have occurred by chance.
+
+The significance level is an important concept in statistical hypothesis testing. By understanding the significance level, researchers can help to reduce the risk of making a Type I error and ensure that their results are reliable.
